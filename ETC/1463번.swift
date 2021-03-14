@@ -2,7 +2,7 @@
 // https://www.acmicpc.net/problem/1463
 // 풀이 : hogumachu
 // 3과 2로 모두 나눠지는 6을 고려해야 함
-// 케이스를 나눠서 그에 해당하는 최소 값을 저장함
+// 케이스를 나눠서 그에 해당하는 최소 값을 저장함 
 
 import Foundation
 
