@@ -1,4 +1,4 @@
-# Swift를 이용한 코딩 테스트 연습 저장용 🤜🏼
+# Swift를 이용한 알고리즘 공부 문제 저장용 🤜🏼
  
 
 |Round|Title|Code|
