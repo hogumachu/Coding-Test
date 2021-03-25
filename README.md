@@ -42,33 +42,60 @@
 |2231|[분해합](https://www.acmicpc.net/problem/2231)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2231%EB%B2%88.swift)|
 |2292|[벌집](https://www.acmicpc.net/problem/2292)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2292%EB%B2%88.swift)|
 |2309|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2309%EB%B2%88.swift)|
+|2447|[별찍기 - 10](https://www.acmicpc.net/problem/2447)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2447%EB%B2%88.swift)|
+|2581|[소수](https://www.acmicpc.net/problem/2581)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2581%EB%B2%88.swift)|
+|2606|[바이러스](https://www.acmicpc.net/problem/2606)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2606%EB%B2%88.swift)|
+|2609|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2609%EB%B2%88.swift)|
+|2630|[색종이 만들기](https://www.acmicpc.net/problem/2630)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2630%EB%B2%88.swift)|
+|2667|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2667%EB%B2%88.swift)|
+|2775|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2775%EB%B2%88.swift)|
+|2798|[블랙잭](https://www.acmicpc.net/problem/2798)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2798%EB%B2%88.swift)|
+|2804|[크로스워드 만들기](https://www.acmicpc.net/problem/2804)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2804%EB%B2%88.swift)|
+|2839|[설탕 배달](https://www.acmicpc.net/problem/2839)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2839%EB%B2%88.swift)|
+|2869|[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2869%EB%B2%88.swift)|
+|2941|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2941%EB%B2%88.swift)|
+|3040|[백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3040%EB%B2%88.swift)|
+|3053|[택시 기하학](https://www.acmicpc.net/problem/3053)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3053%EB%B2%88.swift)|
+|4344|[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4344%EB%B2%88.swift)|
+|4673|[셀프 넘버](https://www.acmicpc.net/problem/4673)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4673%EB%B2%88.swift)|
+|4948|[베르트랑 공준](https://www.acmicpc.net/problem/4948)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4948%EB%B2%88.swift)|
+|4949|[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4949%EB%B2%88.swift)|
+|5525|[IOIO](https://www.acmicpc.net/problem/5525)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/5525%EB%B2%88.swift)|
+|6064|[카잉 달력](https://www.acmicpc.net/problem/6064)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/6064%EB%B2%88.swift)|
+|7568|[덩치](https://www.acmicpc.net/problem/7568)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/7568%EB%B2%88.swift)|
+|7662|[이중 우선순위 큐 (시간 초과)](https://www.acmicpc.net/problem/7662)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/7662%EB%B2%88.swift)|
+|9012|[괄호](https://www.acmicpc.net/problem/9012)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9012%EB%B2%88.swift)|
+|9020|[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9020%EB%B2%88.swift)|
+|9093|[단어 뒤집기](https://www.acmicpc.net/problem/9093)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9093%EB%B2%88.swift)|
+|9095|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9095%EB%B2%88.swift)|
+|9375|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9375%EB%B2%88.swift)|
+|10026|[적록색약](https://www.acmicpc.net/problem/10026)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10026%EB%B2%88.swift)|
+|10162|[전자레인지](https://www.acmicpc.net/problem/10162)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10162%EB%B2%88.swift)|
+|10250|[ACM 호텔](https://www.acmicpc.net/problem/10250)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10250%EB%B2%88.swift)|
+|10808|[알파벳 개수](https://www.acmicpc.net/problem/10808)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10808%EB%B2%88.swift)|
+|10809|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10809%EB%B2%88.swift)|
+|10814|[나이순 정렬](https://www.acmicpc.net/problem/10814)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10814%EB%B2%88.swift)|
+|10816|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10816%EB%B2%88.swift)|
+|10820|[문자열 분석](https://www.acmicpc.net/problem/10820)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10820%EB%B2%88.swift)|
+|10828|[스택](https://www.acmicpc.net/problem/10828)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10828%EB%B2%88.swift)|
+|10845|[큐](https://www.acmicpc.net/problem/10845)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10845%EB%B2%88.swift)|
+|10866|[덱](https://www.acmicpc.net/problem/10866)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10866%EB%B2%88.swift)|
+|10992|[별 찍기 - 17](https://www.acmicpc.net/problem/10992)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10992%EB%B2%88.swift)|
+|11047|[동전 0](https://www.acmicpc.net/problem/11047)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11047%EB%B2%88.swift)|
+|11050|[이항 계수 1](https://www.acmicpc.net/problem/11050)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11050%EB%B2%88.swift)|
+|11399|[ATM](https://www.acmicpc.net/problem/11399)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11399%EB%B2%88.swift)|
+|11403|[경로 찾기](https://www.acmicpc.net/problem/11403)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11403%EB%B2%88.swift)|
+|11650|[좌표 정렬하기](https://www.acmicpc.net/problem/11650)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11650%EB%B2%88.swift)|
+|11655|[ROT13](https://www.acmicpc.net/problem/11655)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11655%EB%B2%88.swift)|
+|11724|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11724%EB%B2%88.swift)|
+|11726|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11726%EB%B2%88.swift)|
+|11727|[2xn 타일링 2](https://www.acmicpc.net/problem/11727)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11727%EB%B2%88.swift)|
+|12852|[1로 만들기 2](https://www.acmicpc.net/problem/12852)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/12852%EB%B2%88.swift)|
+|15829|[Hashing](https://www.acmicpc.net/problem/15829)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15829%EB%B2%88.swift)|
+|17219|[비밀번호 찾기](https://www.acmicpc.net/problem/17219)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/17219%EB%B2%88.swift)|
+|17298|[오큰수](https://www.acmicpc.net/problem/17298)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/17298%EB%B2%88.swift)|
+|17299|[오등큰수](https://www.acmicpc.net/problem/17299)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/17299%EB%B2%88.swift)|
+|17413|[단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/17413%EB%B2%88.swift)|
+|17626|[Four Squares](https://www.acmicpc.net/problem/17626)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/17626%EB%B2%88.swift)|
+|18870|[좌표 압축](https://www.acmicpc.net/problem/18870)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/18870%EB%B2%88.swift)|
 ||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
-
-
-
-
-
-
-
-
-
-
