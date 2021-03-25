@@ -32,4 +32,43 @@
 |1712|[손익분기점](https://www.acmicpc.net/problem/1712)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1712%EB%B2%88.swift)|
 |1874|[스택 수열](https://www.acmicpc.net/problem/1874)|[Link](https://github.com/hogumachu/Coding-Test/commit/a438b1d315e80afce8316981e189b53a8ebbcbc1)|
 |1920|[수 찾기](https://www.acmicpc.net/problem/1920)|[Link](https://github.com/hogumachu/Coding-Test/commit/bb841f680fc0ad30e2848e66dad79948946444eb)|
+|1929|[소수 구하기](https://www.acmicpc.net/problem/1929)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1929%EB%B2%88.swift)|
+|1931|[회의실 배정](https://www.acmicpc.net/problem/1931)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1931%EB%B2%88.swift)|
+|1966|[프린터 큐](https://www.acmicpc.net/problem/1966)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1966%EB%B2%88.swift)|
+|1978|[소수 찾기](https://www.acmicpc.net/problem/1978)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1978%EB%B2%88.swift)|
+|2108|[통계학](https://www.acmicpc.net/problem/2108)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2108%EB%B2%88.swift)|
+|2164|[카드2](https://www.acmicpc.net/problem/2164)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2164%EB%B2%88.swift)|
+|2217|[로프](https://www.acmicpc.net/problem/2217)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2217%EB%B2%88.swift)|
+|2231|[분해합](https://www.acmicpc.net/problem/2231)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2231%EB%B2%88.swift)|
+|2292|[벌집](https://www.acmicpc.net/problem/2292)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2292%EB%B2%88.swift)|
+|2309|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2309%EB%B2%88.swift)|
 ||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+||[](https://www.acmicpc.net/problem/)|[Link]()|
+
+
+
+
+
+
+
+
+
+
