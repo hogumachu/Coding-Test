@@ -44,6 +44,7 @@
 |2292|[벌집](https://www.acmicpc.net/problem/2292)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2292%EB%B2%88.swift)|
 |2309|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2309%EB%B2%88.swift)|
 |2447|[별찍기 - 10](https://www.acmicpc.net/problem/2447)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2447%EB%B2%88.swift)|
+|2579|[계단 오르기](https://www.acmicpc.net/problem/2579)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2579%EB%B2%88.swift)|
 |2581|[소수](https://www.acmicpc.net/problem/2581)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2581%EB%B2%88.swift)|
 |2606|[바이러스](https://www.acmicpc.net/problem/2606)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2606%EB%B2%88.swift)|
 |2609|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2609%EB%B2%88.swift)|
