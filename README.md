@@ -62,6 +62,7 @@
 |4673|[셀프 넘버](https://www.acmicpc.net/problem/4673)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4673%EB%B2%88.swift)|
 |4948|[베르트랑 공준](https://www.acmicpc.net/problem/4948)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4948%EB%B2%88.swift)|
 |4949|[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4949%EB%B2%88.swift)|
+|5430|[AC](https://www.acmicpc.net/problem/5430)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/5430%EB%B2%88.swift)|
 |5525|[IOIO](https://www.acmicpc.net/problem/5525)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/5525%EB%B2%88.swift)|
 |6064|[카잉 달력](https://www.acmicpc.net/problem/6064)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/6064%EB%B2%88.swift)|
 |7568|[덩치](https://www.acmicpc.net/problem/7568)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/7568%EB%B2%88.swift)|
