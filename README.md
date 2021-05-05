@@ -16,6 +16,7 @@
 |1074|[Z](https://www.acmicpc.net/problem/1074)|[Link](https://github.com/hogumachu/Coding-Test/commit/1892d5c2b9a903dfd27ebb1e75c4c8393c4c4b6a)|
 |1085|[직사각형에서 탈출](https://www.acmicpc.net/problem/1085)|[Link](https://github.com/hogumachu/Coding-Test/commit/7dfe3fd6a0fd5e55f5f175ab93c0bfd0056880d0)|
 |1107|[리모컨](https://www.acmicpc.net/problem/1107)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1107%EB%B2%88.swift)|
+|1149|[RGB 거리](https://www.acmicpc.net/problem/1149)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1149%EB%B2%88.swift)|
 |1157|[단어 공부](https://www.acmicpc.net/problem/1157)|[Link](https://github.com/hogumachu/Coding-Test/commit/7d2b954ee6f6a46a4c646918f29a9ec21791206d)|
 |1158|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|[Link](https://github.com/hogumachu/Coding-Test/commit/929aee5af3fb610b63ab7246e66b0d8e38a8ab4c)|
 |1181|[단어 정렬](https://www.acmicpc.net/problem/1181)|[Link](https://github.com/hogumachu/Coding-Test/commit/f5942d2f56611c0d91fda7b7d8078460ea4fe9d7)|
