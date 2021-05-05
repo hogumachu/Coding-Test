@@ -72,6 +72,7 @@
 |9093|[단어 뒤집기](https://www.acmicpc.net/problem/9093)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9093%EB%B2%88.swift)|
 |9095|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9095%EB%B2%88.swift)|
 |9375|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9375%EB%B2%88.swift)|
+|9461|[파도반 수열](https://www.acmicpc.net/problem/9461)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9461%EB%B2%88.swift)|
 |10026|[적록색약](https://www.acmicpc.net/problem/10026)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10026%EB%B2%88.swift)|
 |10162|[전자레인지](https://www.acmicpc.net/problem/10162)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10162%EB%B2%88.swift)|
 |10250|[ACM 호텔](https://www.acmicpc.net/problem/10250)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10250%EB%B2%88.swift)|
