@@ -8,7 +8,6 @@ import Foundation
 
 func solution() {
     let n = Int(readLine()!)!
-    var result: [Int] = Array(repeating: 0, count: 6)
     let firstRGB = readLine()!.split(separator: " ").map{Int(String($0))!}
     var R = firstRGB[0]
     var G = firstRGB[1]
