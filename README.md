@@ -36,6 +36,7 @@
 |1920|[수 찾기](https://www.acmicpc.net/problem/1920)|[Link](https://github.com/hogumachu/Coding-Test/commit/bb841f680fc0ad30e2848e66dad79948946444eb)|
 |1929|[소수 구하기](https://www.acmicpc.net/problem/1929)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1929%EB%B2%88.swift)|
 |1931|[회의실 배정](https://www.acmicpc.net/problem/1931)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1931%EB%B2%88.swift)|
+|1932|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1932%EB%B2%88.swift)|
 |1966|[프린터 큐](https://www.acmicpc.net/problem/1966)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1966%EB%B2%88.swift)|
 |1978|[소수 찾기](https://www.acmicpc.net/problem/1978)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1978%EB%B2%88.swift)|
 |2108|[통계학](https://www.acmicpc.net/problem/2108)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2108%EB%B2%88.swift)|
