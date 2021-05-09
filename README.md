@@ -61,6 +61,7 @@
 |2839|[설탕 배달](https://www.acmicpc.net/problem/2839)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2839%EB%B2%88.swift)|
 |2869|[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2869%EB%B2%88.swift)|
 |2941|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2941%EB%B2%88.swift)|
+|2999|[비밀 이메일](https://www.acmicpc.net/problem/2999)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2999%EB%B2%88.swift)|
 |3040|[백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3040%EB%B2%88.swift)|
 |3053|[택시 기하학](https://www.acmicpc.net/problem/3053)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3053%EB%B2%88.swift)|
 |3985|[롤 케이크](https://www.acmicpc.net/problem/3985)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3985%EB%B2%88.swift)|
