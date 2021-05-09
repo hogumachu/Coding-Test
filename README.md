@@ -71,6 +71,7 @@
 |6064|[카잉 달력](https://www.acmicpc.net/problem/6064)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/6064%EB%B2%88.swift)|
 |7568|[덩치](https://www.acmicpc.net/problem/7568)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/7568%EB%B2%88.swift)|
 |7662|[이중 우선순위 큐 (시간 초과)](https://www.acmicpc.net/problem/7662)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/7662%EB%B2%88.swift)|
+|8320|[직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/8320%EB%B2%88.swift)|
 |9012|[괄호](https://www.acmicpc.net/problem/9012)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9012%EB%B2%88.swift)|
 |9020|[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9020%EB%B2%88.swift)|
 |9093|[단어 뒤집기](https://www.acmicpc.net/problem/9093)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9093%EB%B2%88.swift)|
