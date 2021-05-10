@@ -45,6 +45,7 @@
 |1992|[쿼드트리](https://www.acmicpc.net/problem/1992)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1992%EB%B2%88.swift)|
 |2108|[통계학](https://www.acmicpc.net/problem/2108)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2108%EB%B2%88.swift)|
 |2164|[카드2](https://www.acmicpc.net/problem/2164)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2164%EB%B2%88.swift)|
+|2178|[미로 탐색](https://www.acmicpc.net/problem/2178)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2178%EB%B2%88.swift)|
 |2210|[숫자판 점프](https://www.acmicpc.net/problem/2210)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2210%EB%B2%88.swift)|
 |2217|[로프](https://www.acmicpc.net/problem/2217)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2217%EB%B2%88.swift)|
 |2231|[분해합](https://www.acmicpc.net/problem/2231)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2231%EB%B2%88.swift)|
