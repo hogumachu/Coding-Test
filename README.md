@@ -4,7 +4,6 @@
 
 |Round|Title|Code|
 |:-------:|:-----:|:---:|
-|9019|[DSLR : 시간 초과 다시 풀기](https://www.acmicpc.net/problem/9019)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9019%EB%B2%88.swift)|
 |1002|[터렛](https://www.acmicpc.net/problem/1002)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1002%EB%B2%88.swift)|
 |1003|[피보나치 함수](https://www.acmicpc.net/problem/1003)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1003%EB%B2%88.swift)|
 |1009|[분산처리](https://www.acmicpc.net/problem/1009)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1009%EB%B2%88.swift)|
@@ -80,6 +79,7 @@
 |7662|[이중 우선순위 큐 (시간 초과)](https://www.acmicpc.net/problem/7662)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/7662%EB%B2%88.swift)|
 |8320|[직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/8320%EB%B2%88.swift)|
 |9012|[괄호](https://www.acmicpc.net/problem/9012)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9012%EB%B2%88.swift)|
+|9019|[DSLR](https://www.acmicpc.net/problem/9019)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9019%EB%B2%88.swift)|
 |9020|[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9020%EB%B2%88.swift)|
 |9093|[단어 뒤집기](https://www.acmicpc.net/problem/9093)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9093%EB%B2%88.swift)|
 |9095|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9095%EB%B2%88.swift)|
