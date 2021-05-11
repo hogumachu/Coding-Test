@@ -11,6 +11,8 @@ func solution() {
     let t = Int(readLine()!)!
     var queue: [(Int, String, Int)] = []
     var counting: [Int] = Array(repeating: 1000000, count: 10000)
+    let newCounting = counting
+    let newQueue: [(Int, String, Int)] = []
     var printResult = ""
     func DSLR(_ start: Int, _ end: Int, _ result: String, _ count: Int) -> Void {
         let D = start * 2 > 9999 ? start * 2 % 10000 : start * 2
@@ -31,17 +33,9 @@ func solution() {
             counting[S] = count + 1
             queue.append((S, result+"S", count + 1))
         }
-        var d: [Int] = [0,0,0,0]
-        var divStart = start
-        var count = 3
-        while divStart != 0 {
-            d[count] = divStart % 10
-            divStart /= 10
-            count -= 1
-        }
 
-        let L = d[1]*1000 + d[2] * 100 + d[3] * 10 + d[0]
-        let R = d[3]*1000 + d[0] * 100 + d[1] * 10 + d[2]
+        let L = start % 1000 * 10 + start / 1000
+        let R = start % 10 * 1000 + start / 10
 
         if L == end {
             printResult = result+"L"
@@ -60,7 +54,6 @@ func solution() {
         }
     }
 
-
     for _ in 0..<t {
         let values = readLine()!.split(separator: " ").map{Int(String($0))!}
         queue.append((values[0], "", values[1]))
@@ -70,8 +63,8 @@ func solution() {
         }
         print(printResult)
         printResult = ""
-        queue.removeAll()
-        counting = Array(repeating: 1000000, count: 10000)
+        queue = newQueue
+        counting = newCounting
     }
 }
 
