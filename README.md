@@ -110,6 +110,7 @@
 |11727|[2xn 타일링 2](https://www.acmicpc.net/problem/11727)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11727%EB%B2%88.swift)|
 |12852|[1로 만들기 2](https://www.acmicpc.net/problem/12852)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/12852%EB%B2%88.swift)|
 |13305|[주유소](https://www.acmicpc.net/problem/13305)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13305%EB%B2%88.swift)|
+|15650|[N과 M (2)](https://www.acmicpc.net/problem/15650)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15650%EB%B2%88.swift)|
 |15829|[Hashing](https://www.acmicpc.net/problem/15829)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15829%EB%B2%88.swift)|
 |16928|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/16928%EB%B2%88.swift)|
 |16953|[A -> B](https://www.acmicpc.net/problem/16953)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/16953%EB%B2%88.swift)|
