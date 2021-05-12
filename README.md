@@ -111,6 +111,10 @@
 |12852|[1로 만들기 2](https://www.acmicpc.net/problem/12852)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/12852%EB%B2%88.swift)|
 |13305|[주유소](https://www.acmicpc.net/problem/13305)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13305%EB%B2%88.swift)|
 |15650|[N과 M (2)](https://www.acmicpc.net/problem/15650)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15650%EB%B2%88.swift)|
+|15652|[N과 M (4)](https://www.acmicpc.net/problem/15652)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15652%EB%B2%88.swift)|
+|15654|[N과 M (5)](https://www.acmicpc.net/problem/15654)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15654%EB%B2%88.swift)|
+|15657|[N과 M (8)](https://www.acmicpc.net/problem/15657)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15657%EB%B2%88.swift)|
+|15666|[N과 M (12)](https://www.acmicpc.net/problem/15666)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15666%EB%B2%88.swift)|
 |15829|[Hashing](https://www.acmicpc.net/problem/15829)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15829%EB%B2%88.swift)|
 |16928|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/16928%EB%B2%88.swift)|
 |16953|[A -> B](https://www.acmicpc.net/problem/16953)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/16953%EB%B2%88.swift)|
