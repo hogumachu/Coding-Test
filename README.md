@@ -111,6 +111,7 @@
 |11727|[2xn 타일링 2](https://www.acmicpc.net/problem/11727)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11727%EB%B2%88.swift)|
 |12852|[1로 만들기 2](https://www.acmicpc.net/problem/12852)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/12852%EB%B2%88.swift)|
 |13305|[주유소](https://www.acmicpc.net/problem/13305)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13305%EB%B2%88.swift)|
+|14938|[서강그라운드](https://www.acmicpc.net/problem/14938)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14938%EB%B2%88.swift)|
 |15650|[N과 M (2)](https://www.acmicpc.net/problem/15650)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15650%EB%B2%88.swift)|
 |15652|[N과 M (4)](https://www.acmicpc.net/problem/15652)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15652%EB%B2%88.swift)|
 |15654|[N과 M (5)](https://www.acmicpc.net/problem/15654)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15654%EB%B2%88.swift)|
