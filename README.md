@@ -107,6 +107,7 @@
 |11655|[ROT13](https://www.acmicpc.net/problem/11655)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11655%EB%B2%88.swift)|
 |11659|[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11659%EB%B2%88.swift)|
 |11724|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11724%EB%B2%88.swift)|
+|11725|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11725%EB%B2%88.swift)|
 |11726|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11726%EB%B2%88.swift)|
 |11727|[2xn 타일링 2](https://www.acmicpc.net/problem/11727)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11727%EB%B2%88.swift)|
 |12852|[1로 만들기 2](https://www.acmicpc.net/problem/12852)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/12852%EB%B2%88.swift)|
