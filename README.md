@@ -101,6 +101,7 @@
 |10828|[스택](https://www.acmicpc.net/problem/10828)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10828%EB%B2%88.swift)|
 |10845|[큐](https://www.acmicpc.net/problem/10845)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10845%EB%B2%88.swift)|
 |10866|[덱](https://www.acmicpc.net/problem/10866)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10866%EB%B2%88.swift)|
+|10867|[중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10867%EB%B2%88.swift)|
 |10992|[별 찍기 - 17](https://www.acmicpc.net/problem/10992)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10992%EB%B2%88.swift)|
 |11047|[동전 0](https://www.acmicpc.net/problem/11047)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11047%EB%B2%88.swift)|
 |11050|[이항 계수 1](https://www.acmicpc.net/problem/11050)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11050%EB%B2%88.swift)|
