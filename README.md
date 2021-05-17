@@ -80,6 +80,7 @@
 |5430|[AC](https://www.acmicpc.net/problem/5430)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/5430%EB%B2%88.swift)|
 |5525|[IOIO](https://www.acmicpc.net/problem/5525)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/5525%EB%B2%88.swift)|
 |6064|[카잉 달력](https://www.acmicpc.net/problem/6064)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/6064%EB%B2%88.swift)|
+|6603|[로또](https://www.acmicpc.net/problem/6603)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/6603%EB%B2%88.swift)|
 |7568|[덩치](https://www.acmicpc.net/problem/7568)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/7568%EB%B2%88.swift)|
 |7662|[이중 우선순위 큐 (시간 초과)](https://www.acmicpc.net/problem/7662)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/7662%EB%B2%88.swift)|
 |8320|[직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/8320%EB%B2%88.swift)|
