@@ -61,6 +61,7 @@
 |2606|[바이러스](https://www.acmicpc.net/problem/2606)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2606%EB%B2%88.swift)|
 |2609|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2609%EB%B2%88.swift)|
 |2630|[색종이 만들기](https://www.acmicpc.net/problem/2630)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2630%EB%B2%88.swift)|
+|2644|[촌수계산](https://www.acmicpc.net/problem/2644)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2644%EB%B2%88.swift)|
 |2667|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2667%EB%B2%88.swift)|
 |2775|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2775%EB%B2%88.swift)|
 |2798|[블랙잭](https://www.acmicpc.net/problem/2798)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2798%EB%B2%88.swift)|
