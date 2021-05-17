@@ -24,6 +24,7 @@
 |1158|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1158%EB%B2%88.swift)|
 |1167|[트리의 지름](https://www.acmicpc.net/problem/1167)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1167%EB%B2%88.swift)|
 |1181|[단어 정렬](https://www.acmicpc.net/problem/1181)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1181%EB%B2%88.swift)|
+|1182|[부분수열의 합](https://www.acmicpc.net/problem/1182)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1182%EB%B2%88.swift)|
 |1193|[분수찾기](https://www.acmicpc.net/problem/1193)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1193%EB%B2%88.swift)|
 |1316|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1316%EB%B2%88.swift)|
 |1389|[케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1389%EB%B2%88.swift)|
