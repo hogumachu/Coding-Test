@@ -39,8 +39,9 @@
 |1654|[랜선 자르기](https://www.acmicpc.net/problem/1654)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1654%EB%B2%88.swift)|
 |1676|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1676%EB%B2%88.swift)|
 |1712|[손익분기점](https://www.acmicpc.net/problem/1712)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1712%EB%B2%88.swift)|
-|1874|[스택 수열](https://www.acmicpc.net/problem/1874)|[Link](https://github.com/hogumachu/Coding-Test/commit/a438b1d315e80afce8316981e189b53a8ebbcbc1)|
-|1920|[수 찾기](https://www.acmicpc.net/problem/1920)|[Link](https://github.com/hogumachu/Coding-Test/commit/bb841f680fc0ad30e2848e66dad79948946444eb)|
+|1874|[스택 수열](https://www.acmicpc.net/problem/1874)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1874%EB%B2%88.swift)|
+|1918|[후위 표기식](https://www.acmicpc.net/problem/1918)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1918%EB%B2%88.swift)|
+|1920|[수 찾기](https://www.acmicpc.net/problem/1920)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1920%EB%B2%88.swift)|
 |1929|[소수 구하기](https://www.acmicpc.net/problem/1929)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1929%EB%B2%88.swift)|
 |1931|[회의실 배정](https://www.acmicpc.net/problem/1931)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1931%EB%B2%88.swift)|
 |1932|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1932%EB%B2%88.swift)|
