@@ -132,6 +132,7 @@
 |12852|[1로 만들기 2](https://www.acmicpc.net/problem/12852)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/12852%EB%B2%88.swift)|
 |12865|[평범한 배낭](https://www.acmicpc.net/problem/12865)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/12865%EB%B2%88.swift)|
 |13305|[주유소](https://www.acmicpc.net/problem/13305)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13305%EB%B2%88.swift)|
+|14500|[테트로미노](https://www.acmicpc.net/problem/14500)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14500%EB%B2%88.swift)|
 |14938|[서강그라운드](https://www.acmicpc.net/problem/14938)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14938%EB%B2%88.swift)|
 |15649|[N과 M (1)](https://www.acmicpc.net/problem/15649)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15649%EB%B2%88.swift)|
 |15650|[N과 M (2)](https://www.acmicpc.net/problem/15650)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15650%EB%B2%88.swift)|
