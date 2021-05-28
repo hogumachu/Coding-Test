@@ -57,6 +57,7 @@
 |2206|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2206%EB%B2%88.swift)|
 |2210|[숫자판 점프](https://www.acmicpc.net/problem/2210)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2210%EB%B2%88.swift)|
 |2217|[로프](https://www.acmicpc.net/problem/2217)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2217%EB%B2%88.swift)|
+|2229|[조 짜기](https://www.acmicpc.net/problem/2229)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2229%EB%B2%88.swift)|
 |2231|[분해합](https://www.acmicpc.net/problem/2231)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2231%EB%B2%88.swift)|
 |2292|[벌집](https://www.acmicpc.net/problem/2292)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2292%EB%B2%88.swift)|
 |2309|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2309%EB%B2%88.swift)|
