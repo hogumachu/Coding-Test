@@ -71,6 +71,7 @@
 |2644|[촌수계산](https://www.acmicpc.net/problem/2644)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2644%EB%B2%88.swift)|
 |2660|[회장뽑기](https://www.acmicpc.net/problem/2660)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2660%EB%B2%88.swift)|
 |2667|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2667%EB%B2%88.swift)|
+|2688|[줄어들지 않아](https://www.acmicpc.net/problem/2688)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2688%EB%B2%88.swift)|
 |2775|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2775%EB%B2%88.swift)|
 |2798|[블랙잭](https://www.acmicpc.net/problem/2798)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2798%EB%B2%88.swift)|
 |2804|[크로스워드 만들기](https://www.acmicpc.net/problem/2804)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2804%EB%B2%88.swift)|
