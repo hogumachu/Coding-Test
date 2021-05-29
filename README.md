@@ -81,6 +81,7 @@
 |2999|[비밀 이메일](https://www.acmicpc.net/problem/2999)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2999%EB%B2%88.swift)|
 |3040|[백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3040%EB%B2%88.swift)|
 |3053|[택시 기하학](https://www.acmicpc.net/problem/3053)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3053%EB%B2%88.swift)|
+|3495|[아스키 도형](https://www.acmicpc.net/problem/3495)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3495%EB%B2%88.swift)|
 |3985|[롤 케이크](https://www.acmicpc.net/problem/3985)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3985%EB%B2%88.swift)|
 |4344|[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4344%EB%B2%88.swift)|
 |4673|[셀프 넘버](https://www.acmicpc.net/problem/4673)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4673%EB%B2%88.swift)|
