@@ -115,6 +115,7 @@
 |10816|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10816%EB%B2%88.swift)|
 |10820|[문자열 분석](https://www.acmicpc.net/problem/10820)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10820%EB%B2%88.swift)|
 |10828|[스택](https://www.acmicpc.net/problem/10828)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10828%EB%B2%88.swift)|
+|10830|[행렬 제곱](https://www.acmicpc.net/problem/10830)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10830%EB%B2%88.swift)|
 |10845|[큐](https://www.acmicpc.net/problem/10845)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10845%EB%B2%88.swift)|
 |10866|[덱](https://www.acmicpc.net/problem/10866)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10866%EB%B2%88.swift)|
 |10867|[중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10867%EB%B2%88.swift)|
