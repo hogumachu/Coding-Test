@@ -183,6 +183,7 @@
 |월간 코드 챌린지 시즌2|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501?language=swift)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.swift)|
 |월간 코드 챌린지 시즌2|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.swift)|
 |2017 팁스타운|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.swift)|
+|연습문제|[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)|
 
 
 
