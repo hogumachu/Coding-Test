@@ -173,7 +173,6 @@
 |:-------:|:-----:|:---:|
 |2018 KAKAO BLIND RECRUITMENT|[[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/Kakao/18KakaoBlindRecruitment/SecretMap.swift)|
 |2019 카카오 개발자 겨울 인턴십|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061?language=swift)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/Kakao/19WinterInternship/Crane.swift)|
-|Summer/Winter Coding(~2018)
-|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)|
+|Summer/Winter Coding(~2018)|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)|
 
 
