@@ -1,0 +1,56 @@
+// 출처 : 프로그래머스 2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임
+// https://programmers.co.kr/learn/courses/30/lessons/17682
+// 풀이 : hogumachu
+
+import Foundation
+
+func solution(_ dartResult:String) -> Int {
+    var point: [Int] = []
+    var beforeValue: Bool = false
+    var award: [Int] = [0, 0, 0]
+    for i in dartResult {
+        if i == Character("1") || i == Character("2") || i == Character("3") || i == Character("4") || i == Character("5") || i == Character("6") || i == Character("7") || i == Character("8") || i == Character("9") {
+            point.append(Int(String(i))!)
+            beforeValue = true
+        } else if i == Character("0") {
+            if point.isEmpty {
+                point.append(Int(String(i))!)
+                beforeValue = false
+            } else if beforeValue {
+                point[point.count-1] = 10
+                beforeValue = false
+            } else {
+                point.append(Int(String(i))!)
+            }
+        } else {
+            beforeValue = false
+            if i == Character("S") {
+               continue
+            } else if i == Character("D") {
+                point[point.count-1] *= point[point.count-1]
+            } else if i == Character("T") {
+                point[point.count-1] *= point[point.count-1] * point[point.count-1]
+            } else if i == Character("*") {
+                if point.count-2 >= 0 {
+                    if award[point.count-2] == 0 {
+                        award[point.count-2] = 2
+                    } else {
+                        award[point.count-2] *= 2
+                    }
+                }
+                award[point.count-1] = 2
+            } else if i == Character("#") {
+                award[point.count-1] = -1
+            }
+        }
+    }
+    var result = 0
+    for i in 0..<point.count {
+        if award[i] == 0 {
+            result += point[i]
+        } else {
+            result += point[i] * award[i]
+        }
+    }
+    return result
+}
