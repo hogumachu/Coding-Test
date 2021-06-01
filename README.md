@@ -185,6 +185,7 @@
 |2017 팁스타운|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.swift)|
 |연습문제|[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)|
 |정렬|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.swift)|
+|정렬|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/H-Index.swift)|
 
 
 
