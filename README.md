@@ -188,6 +188,7 @@
 |연습문제|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%89.swift)|
 |연습문제|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.swift)|
 |연습문제|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.swift)|
+|연습문제|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.swift)|
 |정렬|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.swift)|
 |정렬|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/H-Index.swift)|
 |깊이/너비 우선 탐색(DFS/BFS)|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.swift)|
