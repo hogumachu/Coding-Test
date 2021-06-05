@@ -195,6 +195,7 @@
 |연습문제|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.swift)|
 |정렬|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.swift)|
 |정렬|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/H-Index.swift)|
+|그래프|[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.swift)|
 |깊이/너비 우선 탐색(DFS/BFS)|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.swift)|
 
 
