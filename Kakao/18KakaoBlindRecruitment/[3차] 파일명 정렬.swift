@@ -32,25 +32,7 @@ func solution(_ files:[String]) -> [String] {
         }
         newFiles.append((head, number, tail))
     }
-    func compareHead(_ a: String, _ b: String) -> Bool {
-        let alow = a.lowercased()
-        let blow = b.lowercased()
-        if alow < blow {
-            return false
-        } else {
-            return true
-        }
-    }
-    func compareNumber(_ a: String, _ b: String) -> Bool {
-        let intA = Int(a)!
-        let intB = Int(b)!
-
-        if intA < intB {
-            return false
-        } else {
-            return true
-        }
-    }
+    
     newFiles.sort(by: {
         if $0.0.lowercased() < $1.0.lowercased() {
             return true
