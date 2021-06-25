@@ -129,6 +129,7 @@
 |10992|[별 찍기 - 17](https://www.acmicpc.net/problem/10992)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10992%EB%B2%88.swift)|
 |11047|[동전 0](https://www.acmicpc.net/problem/11047)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11047%EB%B2%88.swift)|
 |11050|[이항 계수 1](https://www.acmicpc.net/problem/11050)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11050%EB%B2%88.swift)|
+|11051|[이항 계수 2](https://www.acmicpc.net/problem/11051)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11051%EB%B2%88.swift)|
 |11053|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11053%EB%B2%88.swift)|
 |11055|[가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11055%EB%B2%88.swift)|
 |11286|[절댓값 힙](https://www.acmicpc.net/problem/11286)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11286%EB%B2%88.swift)|
