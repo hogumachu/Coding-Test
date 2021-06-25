@@ -114,6 +114,7 @@
 |10026|[적록색약](https://www.acmicpc.net/problem/10026)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10026%EB%B2%88.swift)|
 |10162|[전자레인지](https://www.acmicpc.net/problem/10162)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10162%EB%B2%88.swift)|
 |10250|[ACM 호텔](https://www.acmicpc.net/problem/10250)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10250%EB%B2%88.swift)|
+|10610|[30](https://www.acmicpc.net/problem/10610)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10610%EB%B2%88.swift)|
 |10808|[알파벳 개수](https://www.acmicpc.net/problem/10808)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10808%EB%B2%88.swift)|
 |10809|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10809%EB%B2%88.swift)|
 |10814|[나이순 정렬](https://www.acmicpc.net/problem/10814)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10814%EB%B2%88.swift)|
