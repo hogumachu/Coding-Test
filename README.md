@@ -46,6 +46,7 @@
 |1912|[연속합](https://www.acmicpc.net/problem/1912)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1912%EB%B2%88.swift)|
 |1918|[후위 표기식](https://www.acmicpc.net/problem/1918)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1918%EB%B2%88.swift)|
 |1920|[수 찾기](https://www.acmicpc.net/problem/1920)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1920%EB%B2%88.swift)|
+|1924|[2007년](https://www.acmicpc.net/problem/1924)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1924%EB%B2%88.swift)|
 |1929|[소수 구하기](https://www.acmicpc.net/problem/1929)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1929%EB%B2%88.swift)|
 |1931|[회의실 배정](https://www.acmicpc.net/problem/1931)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1931%EB%B2%88.swift)|
 |1932|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1932%EB%B2%88.swift)|
