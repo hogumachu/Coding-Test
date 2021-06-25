@@ -40,6 +40,7 @@
 |1629|[곱셈](https://www.acmicpc.net/problem/1629)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1629%EB%B2%88.swift)|
 |1654|[랜선 자르기](https://www.acmicpc.net/problem/1654)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1654%EB%B2%88.swift)|
 |1676|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1676%EB%B2%88.swift)|
+|1699|[제곱수의 합](https://www.acmicpc.net/problem/1699)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1699%EB%B2%88.swift)|
 |1712|[손익분기점](https://www.acmicpc.net/problem/1712)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1712%EB%B2%88.swift)|
 |1821|[수들의 합](https://www.acmicpc.net/problem/1821)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1821%EB%B2%88.swift)|
 |1874|[스택 수열](https://www.acmicpc.net/problem/1874)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1874%EB%B2%88.swift)|
