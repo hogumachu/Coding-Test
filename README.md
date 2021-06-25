@@ -32,6 +32,7 @@
 |1436|[영화감독 숌](https://www.acmicpc.net/problem/1436)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1436%EB%B2%88.swift)|
 |1439|[뒤집기](https://www.acmicpc.net/problem/1439)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1439%EB%B2%88.swift)|
 |1463|[1로 만들기](https://www.acmicpc.net/problem/1463)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1463%EB%B2%88.swift)|
+|1475|[방 번호](https://www.acmicpc.net/problem/1475)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1475%EB%B2%88.swift)|
 |1541|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1541%EB%B2%88.swift)|
 |1592|[영식이와 친구들](https://www.acmicpc.net/problem/1592)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1592%EB%B2%88.swift)|
 |1620|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1620%EB%B2%88.swift)|
