@@ -58,6 +58,7 @@
 |1992|[쿼드트리](https://www.acmicpc.net/problem/1992)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1992%EB%B2%88.swift)|
 |2108|[통계학](https://www.acmicpc.net/problem/2108)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2108%EB%B2%88.swift)|
 |2116|[주사위 찾기](https://www.acmicpc.net/problem/2116)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2116%EB%B2%88.swift)|
+|2156|[포도주 시식](https://www.acmicpc.net/problem/2156)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2156%EB%B2%88.swift)|
 |2164|[카드2](https://www.acmicpc.net/problem/2164)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2164%EB%B2%88.swift)|
 |2178|[미로 탐색](https://www.acmicpc.net/problem/2178)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2178%EB%B2%88.swift)|
 |2193|[이친수](https://www.acmicpc.net/problem/2193)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2193%EB%B2%88.swift)|
