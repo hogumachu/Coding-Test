@@ -14,6 +14,7 @@
 |1026|[보물](https://www.acmicpc.net/problem/1026)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1026%EB%B2%88.swift)|
 |1041|[주사위](https://www.acmicpc.net/problem/1041)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1041%EB%B2%88.swift)|
 |1043|[거짓말](https://www.acmicpc.net/problem/1043)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1043%EB%B2%88.swift)|
+|1057|[토너먼트](https://www.acmicpc.net/problem/1057)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1057%EB%B2%88.swift)|
 |1059|[좋은 구간](https://www.acmicpc.net/problem/1059)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1059%EB%B2%88.swift)|
 |1065|[한수](https://www.acmicpc.net/problem/1065)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1065%EB%B2%88.swift)|
 |1074|[Z](https://www.acmicpc.net/problem/1074)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1074%EB%B2%88.swift)|
