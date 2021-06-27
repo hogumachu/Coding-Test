@@ -70,6 +70,7 @@
 |2229|[조 짜기](https://www.acmicpc.net/problem/2229)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2229%EB%B2%88.swift)|
 |2231|[분해합](https://www.acmicpc.net/problem/2231)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2231%EB%B2%88.swift)|
 |2292|[벌집](https://www.acmicpc.net/problem/2292)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2292%EB%B2%88.swift)|
+|2293|[동전 1](https://www.acmicpc.net/problem/2293)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2293%EB%B2%88.swift)|
 |2309|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2309%EB%B2%88.swift)|
 |2447|[별찍기 - 10](https://www.acmicpc.net/problem/2447)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2447%EB%B2%88.swift)|
 |2485|[가로수](https://www.acmicpc.net/problem/2485)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2485%EB%B2%88.swift)|
