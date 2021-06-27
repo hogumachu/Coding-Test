@@ -12,6 +12,7 @@
 |1012|[유기농 배추](https://www.acmicpc.net/problem/1012)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1012%EB%B2%88.swift)|
 |1016|[제곱 ㄴㄴ수](https://www.acmicpc.net/problem/1016)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1016%EB%B2%88.swift)|
 |1018|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1018%EB%B2%88.swift)|
+|1021|[회전하는 큐](https://www.acmicpc.net/problem/1021)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1021%EB%B2%88.swift)|
 |1026|[보물](https://www.acmicpc.net/problem/1026)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1026%EB%B2%88.swift)|
 |1041|[주사위](https://www.acmicpc.net/problem/1041)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1041%EB%B2%88.swift)|
 |1043|[거짓말](https://www.acmicpc.net/problem/1043)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1043%EB%B2%88.swift)|
