@@ -22,6 +22,7 @@
 |1074|[Z](https://www.acmicpc.net/problem/1074)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1074%EB%B2%88.swift)|
 |1085|[직사각형에서 탈출](https://www.acmicpc.net/problem/1085)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1085%EB%B2%88.swift)|
 |1107|[리모컨](https://www.acmicpc.net/problem/1107)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1107%EB%B2%88.swift)|
+|1138|[한 줄로 서기](https://www.acmicpc.net/problem/1138)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1138%EB%B2%88.swift)|
 |1149|[RGB 거리](https://www.acmicpc.net/problem/1149)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1149%EB%B2%88.swift)|
 |1157|[단어 공부](https://www.acmicpc.net/problem/1157)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1157%EB%B2%88.swift)|
 |1158|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1158%EB%B2%88.swift)|
