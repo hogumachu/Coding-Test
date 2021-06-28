@@ -163,6 +163,7 @@
 |13305|[주유소](https://www.acmicpc.net/problem/13305)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13305%EB%B2%88.swift)|
 |13458|[시험 감독](https://www.acmicpc.net/problem/13458)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13458%EB%B2%88.swift)|
 |13549|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13549%EB%B2%88.swift)|
+|14496|[그대, 그머가 되어](https://www.acmicpc.net/problem/14496)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14496%EB%B2%88.swift)|
 |14500|[테트로미노](https://www.acmicpc.net/problem/14500)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14500%EB%B2%88.swift)|
 |14502|[연구소](https://www.acmicpc.net/problem/14502)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14502%EB%B2%88.swift)|
 |14503|[로봇 청소기](https://www.acmicpc.net/problem/14503)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14503%EB%B2%88.swift)|
