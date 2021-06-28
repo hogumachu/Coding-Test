@@ -48,6 +48,7 @@
 |1821|[수들의 합](https://www.acmicpc.net/problem/1821)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1821%EB%B2%88.swift)|
 |1874|[스택 수열](https://www.acmicpc.net/problem/1874)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1874%EB%B2%88.swift)|
 |1912|[연속합](https://www.acmicpc.net/problem/1912)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1912%EB%B2%88.swift)|
+|1916|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1916%EB%B2%88.swift)|
 |1918|[후위 표기식](https://www.acmicpc.net/problem/1918)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1918%EB%B2%88.swift)|
 |1920|[수 찾기](https://www.acmicpc.net/problem/1920)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1920%EB%B2%88.swift)|
 |1924|[2007년](https://www.acmicpc.net/problem/1924)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1924%EB%B2%88.swift)|
