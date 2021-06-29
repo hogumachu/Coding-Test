@@ -33,6 +33,7 @@
 |1316|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1316%EB%B2%88.swift)|
 |1389|[케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1389%EB%B2%88.swift)|
 |1406|[에디터 (시간 초과)](https://www.acmicpc.net/problem/1406)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1406%EB%B2%88.swift)|
+|1411|[비슷한 단어](https://www.acmicpc.net/problem/1411)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1411%EB%B2%88.swift)|
 |1436|[영화감독 숌](https://www.acmicpc.net/problem/1436)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1436%EB%B2%88.swift)|
 |1439|[뒤집기](https://www.acmicpc.net/problem/1439)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1439%EB%B2%88.swift)|
 |1463|[1로 만들기](https://www.acmicpc.net/problem/1463)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1463%EB%B2%88.swift)|
