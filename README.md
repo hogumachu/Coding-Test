@@ -124,6 +124,7 @@
 |9375|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9375%EB%B2%88.swift)|
 |9461|[파도반 수열](https://www.acmicpc.net/problem/9461)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9461%EB%B2%88.swift)|
 |9613|[GCD 합](https://www.acmicpc.net/problem/9613)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9613%EB%B2%88.swift)|
+|9935|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9935%EB%B2%88.swift)|
 |10026|[적록색약](https://www.acmicpc.net/problem/10026)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10026%EB%B2%88.swift)|
 |10162|[전자레인지](https://www.acmicpc.net/problem/10162)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10162%EB%B2%88.swift)|
 |10250|[ACM 호텔](https://www.acmicpc.net/problem/10250)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10250%EB%B2%88.swift)|
