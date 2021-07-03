@@ -110,6 +110,7 @@
 |3495|[아스키 도형](https://www.acmicpc.net/problem/3495)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3495%EB%B2%88.swift)|
 |3985|[롤 케이크](https://www.acmicpc.net/problem/3985)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3985%EB%B2%88.swift)|
 |4344|[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4344%EB%B2%88.swift)|
+|4386|[별자리 만들기](https://www.acmicpc.net/problem/4386)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4386%EB%B2%88.swift)|
 |4673|[셀프 넘버](https://www.acmicpc.net/problem/4673)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4673%EB%B2%88.swift)|
 |4811|[알약](https://www.acmicpc.net/problem/4811)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4811%EB%B2%88.swift)|
 |4948|[베르트랑 공준](https://www.acmicpc.net/problem/4948)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4948%EB%B2%88.swift)|
