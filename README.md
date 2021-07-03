@@ -212,6 +212,7 @@
 |17626|[Four Squares](https://www.acmicpc.net/problem/17626)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/17626%EB%B2%88.swift)|
 |18352|[특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/18352%EB%B2%88.swift)|
 |18870|[좌표 압축](https://www.acmicpc.net/problem/18870)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/18870%EB%B2%88.swift)|
+|20040|[사이클 게임](https://www.acmicpc.net/problem/20040)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/20040%EB%B2%88.swift)|
 ||[](https://www.acmicpc.net/problem/)|[Link]()|
 
 
