@@ -46,6 +46,7 @@
 |1592|[영식이와 친구들](https://www.acmicpc.net/problem/1592)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1592%EB%B2%88.swift)|
 |1620|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1620%EB%B2%88.swift)|
 |1629|[곱셈](https://www.acmicpc.net/problem/1629)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1629%EB%B2%88.swift)|
+|1644|[소수의 연속합](https://www.acmicpc.net/problem/1644)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1644%EB%B2%88.swift)|
 |1647|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1647%EB%B2%88.swift)|
 |1654|[랜선 자르기](https://www.acmicpc.net/problem/1654)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1654%EB%B2%88.swift)|
 |1676|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1676%EB%B2%88.swift)|
