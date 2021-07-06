@@ -52,6 +52,7 @@
 |1676|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1676%EB%B2%88.swift)|
 |1699|[제곱수의 합](https://www.acmicpc.net/problem/1699)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1699%EB%B2%88.swift)|
 |1712|[손익분기점](https://www.acmicpc.net/problem/1712)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1712%EB%B2%88.swift)|
+|1759|[암호 만들기](https://www.acmicpc.net/problem/1759)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1759%EB%B2%88.swift)|
 |1806|[부분합](https://www.acmicpc.net/problem/1806)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1806%EB%B2%88.swift)|
 |1821|[수들의 합](https://www.acmicpc.net/problem/1821)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1821%EB%B2%88.swift)|
 |1874|[스택 수열](https://www.acmicpc.net/problem/1874)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1874%EB%B2%88.swift)|
