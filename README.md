@@ -215,6 +215,7 @@
 |17219|[비밀번호 찾기](https://www.acmicpc.net/problem/17219)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/17219%EB%B2%88.swift)|
 |17298|[오큰수](https://www.acmicpc.net/problem/17298)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/17298%EB%B2%88.swift)|
 |17299|[오등큰수](https://www.acmicpc.net/problem/17299)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/17299%EB%B2%88.swift)|
+|17404|[RGB거리 2](https://www.acmicpc.net/problem/17404)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/17404%EB%B2%88.swift)|
 |17413|[단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/17413%EB%B2%88.swift)|
 |17626|[Four Squares](https://www.acmicpc.net/problem/17626)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/17626%EB%B2%88.swift)|
 |18352|[특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/18352%EB%B2%88.swift)|
