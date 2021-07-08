@@ -137,6 +137,7 @@
 |9252|[LCS 2](https://www.acmicpc.net/problem/9252)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9252%EB%B2%88.swift)|
 |9375|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9375%EB%B2%88.swift)|
 |9461|[파도반 수열](https://www.acmicpc.net/problem/9461)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9461%EB%B2%88.swift)|
+|9466|[텀 프로젝트](https://www.acmicpc.net/problem/9466)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9466%EB%B2%88.swift)|
 |9613|[GCD 합](https://www.acmicpc.net/problem/9613)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9613%EB%B2%88.swift)|
 |9663|[N-Queen](https://www.acmicpc.net/problem/9663)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9663%EB%B2%88.swift)|
 |9935|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/9935%EB%B2%88.swift)|
