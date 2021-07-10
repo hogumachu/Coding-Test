@@ -165,6 +165,7 @@
 |11051|[이항 계수 2](https://www.acmicpc.net/problem/11051)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11051%EB%B2%88.swift)|
 |11052|[카드 구매하기](https://www.acmicpc.net/problem/11052)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11052%EB%B2%88.swift)|
 |11053|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11053%EB%B2%88.swift)|
+|11054|[가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11054%EB%B2%88.swift)|
 |11055|[가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11055%EB%B2%88.swift)|
 |11057|[오르막 수](https://www.acmicpc.net/problem/11057)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11057%EB%B2%88.swift)|
 |11286|[절댓값 힙](https://www.acmicpc.net/problem/11286)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/11286%EB%B2%88.swift)|
