@@ -122,6 +122,7 @@
 |6064|[카잉 달력](https://www.acmicpc.net/problem/6064)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/6064%EB%B2%88.swift)|
 |6588|[골드바흐의 추측](https://www.acmicpc.net/problem/6588)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/6588%EB%B2%88.swift)|
 |6603|[로또](https://www.acmicpc.net/problem/6603)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/6603%EB%B2%88.swift)|
+|7562|[나이트의 이동](https://www.acmicpc.net/problem/7562)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/7562%EB%B2%88.swift)|
 |7568|[덩치](https://www.acmicpc.net/problem/7568)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/7568%EB%B2%88.swift)|
 |7569|[토마토](https://www.acmicpc.net/problem/7569)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/7569%EB%B2%88.swift)|
 |7662|[이중 우선순위 큐 (시간 초과)](https://www.acmicpc.net/problem/7662)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/7662%EB%B2%88.swift)|
