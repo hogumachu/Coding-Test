@@ -90,6 +90,7 @@
 |2292|[벌집](https://www.acmicpc.net/problem/2292)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2292%EB%B2%88.swift)|
 |2293|[동전 1](https://www.acmicpc.net/problem/2293)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2293%EB%B2%88.swift)|
 |2309|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2309%EB%B2%88.swift)|
+|2352|[반도체 설계](https://www.acmicpc.net/problem/2352)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2352%EB%B2%88.swift)|
 |2447|[별찍기 - 10](https://www.acmicpc.net/problem/2447)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2447%EB%B2%88.swift)|
 |2458|[키 순서](https://www.acmicpc.net/problem/2458)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2458%EB%B2%88.swift)|
 |2467|[용액](https://www.acmicpc.net/problem/2467)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2467%EB%B2%88.swift)|
