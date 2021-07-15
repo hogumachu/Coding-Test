@@ -67,6 +67,7 @@
 |1931|[회의실 배정](https://www.acmicpc.net/problem/1931)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1931%EB%B2%88.swift)|
 |1932|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1932%EB%B2%88.swift)|
 |1956|[운동](https://www.acmicpc.net/problem/1956)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1956%EB%B2%88.swift)|
+|1963|[소수 경로](https://www.acmicpc.net/problem/1963)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1963%EB%B2%88.swift)|
 |1966|[프린터 큐](https://www.acmicpc.net/problem/1966)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1966%EB%B2%88.swift)|
 |1967|[트리의 지름](https://www.acmicpc.net/problem/1967)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1967%EB%B2%88.swift)|
 |1976|[여행 가자](https://www.acmicpc.net/problem/1976)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1976%EB%B2%88.swift)|
