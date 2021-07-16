@@ -97,6 +97,7 @@
 |2447|[별찍기 - 10](https://www.acmicpc.net/problem/2447)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2447%EB%B2%88.swift)|
 |2458|[키 순서](https://www.acmicpc.net/problem/2458)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2458%EB%B2%88.swift)|
 |2467|[용액](https://www.acmicpc.net/problem/2467)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2467%EB%B2%88.swift)|
+|2468|[안전 영역](https://www.acmicpc.net/problem/2468)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2468%EB%B2%88.swift)|
 |2485|[가로수](https://www.acmicpc.net/problem/2485)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2485%EB%B2%88.swift)|
 |2565|[전깃줄](https://www.acmicpc.net/problem/2565)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2565%EB%B2%88.swift)|
 |2579|[계단 오르기](https://www.acmicpc.net/problem/2579)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2579%EB%B2%88.swift)|
