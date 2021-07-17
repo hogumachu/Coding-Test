@@ -105,6 +105,7 @@
 |2606|[바이러스](https://www.acmicpc.net/problem/2606)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2606%EB%B2%88.swift)|
 |2609|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2609%EB%B2%88.swift)|
 |2630|[색종이 만들기](https://www.acmicpc.net/problem/2630)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2630%EB%B2%88.swift)|
+|2636|[치즈](https://www.acmicpc.net/problem/2636)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2636%EB%B2%88.swift)|
 |2638|[치즈](https://www.acmicpc.net/problem/2638)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2638%EB%B2%88.swift)|
 |2644|[촌수계산](https://www.acmicpc.net/problem/2644)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2644%EB%B2%88.swift)|
 |2660|[회장뽑기](https://www.acmicpc.net/problem/2660)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2660%EB%B2%88.swift)|
