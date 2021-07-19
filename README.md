@@ -58,6 +58,7 @@
 |1759|[암호 만들기](https://www.acmicpc.net/problem/1759)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1759%EB%B2%88.swift)|
 |1806|[부분합](https://www.acmicpc.net/problem/1806)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1806%EB%B2%88.swift)|
 |1821|[수들의 합](https://www.acmicpc.net/problem/1821)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1821%EB%B2%88.swift)|
+|1850|[최대공약수](https://www.acmicpc.net/problem/1850)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1850%EB%B2%88.swift)|
 |1874|[스택 수열](https://www.acmicpc.net/problem/1874)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1874%EB%B2%88.swift)|
 |1912|[연속합](https://www.acmicpc.net/problem/1912)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1912%EB%B2%88.swift)|
 |1916|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1916%EB%B2%88.swift)|
