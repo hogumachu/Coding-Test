@@ -74,6 +74,7 @@
 |1967|[트리의 지름](https://www.acmicpc.net/problem/1967)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1967%EB%B2%88.swift)|
 |1976|[여행 가자](https://www.acmicpc.net/problem/1976)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1976%EB%B2%88.swift)|
 |1978|[소수 찾기](https://www.acmicpc.net/problem/1978)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1978%EB%B2%88.swift)|
+|1987|[알파벳](https://www.acmicpc.net/problem/1987)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1987%EB%B2%88.swift)|
 |1991|[트리 순회](https://www.acmicpc.net/problem/1991)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1991%EB%B2%88.swift)|
 |1992|[쿼드트리](https://www.acmicpc.net/problem/1992)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1992%EB%B2%88.swift)|
 |2096|[내려가기](https://www.acmicpc.net/problem/2096)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2096%EB%B2%88.swift)|
