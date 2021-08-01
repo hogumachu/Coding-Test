@@ -7,6 +7,7 @@
 |1002|[터렛](https://www.acmicpc.net/problem/1002)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1002%EB%B2%88.swift)|
 |1003|[피보나치 함수](https://www.acmicpc.net/problem/1003)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1003%EB%B2%88.swift)|
 |1005|[ACM Craft](https://www.acmicpc.net/problem/1005)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1005%EB%B2%88.swift)|
+|1007|[벡터 매칭](https://www.acmicpc.net/problem/1007)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1007%EB%B2%88.swift)|
 |1009|[분산처리](https://www.acmicpc.net/problem/1009)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1009%EB%B2%88.swift)|
 |1010|[다리 놓기](https://www.acmicpc.net/problem/1010)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1010%EB%B2%88.swift)|
 |1011|[Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1011%EB%B2%88.swift)|
