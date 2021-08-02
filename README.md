@@ -307,6 +307,7 @@
 |정렬|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/K%EB%B2%88%EC%A7%B8%EC%88%98.swift)|
 |해시|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%9C%84%EC%9E%A5.swift)|
 |해시|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.swift)|
+|스택/큐|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.swift)|
 |탐욕법(Greedy)|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)|
 |탐욕법(Greedy)|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.swift)|
 |그래프|[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.swift)|
