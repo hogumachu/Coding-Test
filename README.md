@@ -175,6 +175,7 @@
 |10845|[큐](https://www.acmicpc.net/problem/10845)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10845%EB%B2%88.swift)|
 |10866|[덱](https://www.acmicpc.net/problem/10866)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10866%EB%B2%88.swift)|
 |10867|[중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10867%EB%B2%88.swift)|
+|10971|[외판원 순회 2](https://www.acmicpc.net/problem/10971)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10971%EB%B2%88.swift)|
 |10972|[다음 순열](https://www.acmicpc.net/problem/10972)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10972%EB%B2%88.swift)|
 |10973|[이전 순열](https://www.acmicpc.net/problem/10973)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10973%EB%B2%88.swift)|
 |10989|[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/10989%EB%B2%88.swift)|
