@@ -114,6 +114,7 @@
 |2638|[치즈](https://www.acmicpc.net/problem/2638)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2638%EB%B2%88.swift)|
 |2644|[촌수계산](https://www.acmicpc.net/problem/2644)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2644%EB%B2%88.swift)|
 |2660|[회장뽑기](https://www.acmicpc.net/problem/2660)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2660%EB%B2%88.swift)|
+|2661|[좋은수열](https://www.acmicpc.net/problem/2661)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2661%EB%B2%88.swift)|
 |2667|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2667%EB%B2%88.swift)|
 |2688|[줄어들지 않아](https://www.acmicpc.net/problem/2688)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2688%EB%B2%88.swift)|
 |2775|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2775%EB%B2%88.swift)|
