@@ -324,3 +324,6 @@
 |:-------:|:-----:|:---:|
 |HackerRank|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Left%20Rotation.swift)|
 |LeetCode|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Add%20Two%20Numbers.swift)|
+|LeetCode|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Longest%20Substring%20Without%20Repeating%20Characters.swift)|
+
+
