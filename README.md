@@ -325,5 +325,9 @@
 |HackerRank|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Left%20Rotation.swift)|
 |LeetCode|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Add%20Two%20Numbers.swift)|
 |LeetCode|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Longest%20Substring%20Without%20Repeating%20Characters.swift)|
+|LeetCode|[Plus One](https://leetcode.com/problems/plus-one/submissions/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Plus%20One.swift)|
+|LeetCode|[Path Sum II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3838/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Path%20Sum%20II.swift)|
+
+
 
 
