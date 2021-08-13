@@ -249,7 +249,6 @@
 |18352|[특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/18352%EB%B2%88.swift)|
 |18870|[좌표 압축](https://www.acmicpc.net/problem/18870)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/18870%EB%B2%88.swift)|
 |20040|[사이클 게임](https://www.acmicpc.net/problem/20040)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/20040%EB%B2%88.swift)|
-||[](https://www.acmicpc.net/problem/)|[Link]()|
 
 
  
@@ -326,7 +325,7 @@
 |완전탐색|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.swift)|
 |깊이/너비 우선 탐색(DFS/BFS)|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.swift)|
 |깊이/너비 우선 탐색(DFS/BFS)|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.swift)|
-
+|깊이/너비 우선 탐색(DFS/BFS)|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.swift)|
 
 
 ## HackerRank, Codility, LeetCode
