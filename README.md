@@ -310,6 +310,7 @@
 |연습문제|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.swift)|
 |연습문제|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.swift)|
 |연습문제|[멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.swift)|
+|연습문제|[가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.swift)|
 |정렬|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.swift)|
 |정렬|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/H-Index.swift)|
 |정렬|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/K%EB%B2%88%EC%A7%B8%EC%88%98.swift)|
