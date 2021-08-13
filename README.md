@@ -320,6 +320,7 @@
 |스택/큐|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.swift)|
 |탐욕법(Greedy)|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)|
 |탐욕법(Greedy)|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.swift)|
+|탐욕법(Greedy)|[섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.swift)|
 |그래프|[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.swift)|
 |완전탐색|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.swift)|
 |완전탐색|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.swift)|
