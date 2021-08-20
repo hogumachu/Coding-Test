@@ -1,32 +1,24 @@
 // 출처 : 프로그래머스 2021 KAKAO BLIND RECRUITMENT 순위 검색
 // https://programmers.co.kr/learn/courses/30/lessons/72412
 // 풀이 : hogumachu
-// dict에 모든 케이스를 저장함
-// 처음에는 query 를 불러올 때 마다 dict에 있는 값을 sort 하였는데 시간 초과
-// 따라서 먼저 sort 를 하고 진행
-// 값을 찾을 때도 이분 탐색으로 진행해야 시간 초과 나지 않음.
-
 
 import Foundation
 
-func solution(_ infos: [String], _ query: [String]) -> [Int] {
-    var dict: [String: [Int]] = [:]
+func solution(_ info: [String], _ query: [String]) -> [Int] {
+    var order: [String: [Int]] = [:]
+    var result: [Int] = Array(repeating: 0, count: query.count)
 
-    for info in infos {
-        let arr = info.split(separator: " ")
-        let a = [arr[0], "-"]
-        let b = [arr[1], "-"]
-        let c = [arr[2], "-"]
-        let d = [arr[3], "-"]
-
-        for i in a {
-            for j in b {
-                for x in c {
-                    for y in d {
-                        if dict["\(i)\(j)\(x)\(y)"] != nil {
-                            dict["\(i)\(j)\(x)\(y)"]!.append(Int(arr[4])!)
+    // order 에 info 로 만들 수 있는 모든 케이스를 생성하고 그에 해당 할 수 있는 값을 넣어줌
+    for element in info {
+        let arr = element.split(separator: " ")
+        for lang in [arr[0], "-"] {
+            for job in [arr[1], "-"] {
+                for career in [arr[2], "-"] {
+                    for food in [arr[3], "-"] {
+                        if order["\(lang)\(job)\(career)\(food)"] != nil {
+                            order["\(lang)\(job)\(career)\(food)"]!.append(Int(arr[4])!)
                         } else {
-                            dict["\(i)\(j)\(x)\(y)"] = [Int(arr[4])!]
+                            order["\(lang)\(job)\(career)\(food)"] = [Int(arr[4])!]
                         }
                     }
                 }
@@ -34,32 +26,41 @@ func solution(_ infos: [String], _ query: [String]) -> [Int] {
         }
     }
 
-    for key in dict.keys {
-        dict[key] = dict[key]!.sorted()
+    // binarySearch 를 하기 위해 order 를 오름차순으로 정렬해줌
+    for key in order.keys {
+        order[key] = order[key]!.sorted()
     }
 
-    var result: [Int] = Array(repeating: 0, count: query.count)
 
-    for i in 0..<query.count {
-        var order = query[i].split(separator: " ")
-        let num = Int(order[7])!
-        let str = "\(order[0])\(order[2])\(order[4])\(order[6])"
+    for index in 0..<query.count {
+        // query 를 이용하여 배열을 만들어 줌
+        let arr = query[index].split(separator: " ")
+        let num = Int(arr[7])!
 
-        if dict[str] != nil {
-            let dArr = dict[str]!
+        // 만약 order 에 값이 존재한다면
+        if order["\(arr[0])\(arr[2])\(arr[4])\(arr[6])"] != nil {
+
+            // 그 order 에 해당하는 배열을 할당
+            let intArr = order["\(arr[0])\(arr[2])\(arr[4])\(arr[6])"]!
+
+            // binarySearch 를 진행함
             var left = 0
-            var right = dArr.count - 1
+            var right = intArr.count - 1
             var mid = 0
+
             while left <= right {
                 mid = (left + right) / 2
-                if dArr[mid] < num {
+                if intArr[mid] < num {
                     left = mid + 1
                 } else {
                     right = mid - 1
                 }
             }
-            result[i] = dArr.count - left
+
+            // count 를 result 에 저장
+            result[index] = intArr.count - left
         }
     }
+
     return result
 }
