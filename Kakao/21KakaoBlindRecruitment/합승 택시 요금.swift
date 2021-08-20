@@ -86,6 +86,7 @@ func solution(_ n: Int, _ s: Int, _ a: Int, _ b: Int, _ fares: [[Int]]) -> Int {
     bPath[b] = 0
     bVisit(b, 0)
 
+    // result 를 sPath에서 시작하여 i 로 도착한 거리 + i 에서 출발하여 a로 도착한 거리 + i 에서 출발하여 b로 도착한 거리 중 최소값을 할당
     for i in 1...n {
         if sPath[i] != Int.max && aPath[i] != Int.max && bPath[i] != Int.max {
             result = min(sPath[i] + aPath[i] + bPath[i], result)
