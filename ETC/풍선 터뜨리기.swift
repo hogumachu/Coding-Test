@@ -22,15 +22,12 @@ func solution(_ a:[Int]) -> Int {
     left[0] = a[0]
     right[a.count - 1] = a[a.count - 1]
 
-    // 현재의 index 의 값과 이전 의 최솟값과 비교하여 left 값을 갱신
-    for i in 1..<left.count {
+    // 현재의 index 의 값과 이전 의 최솟값과 비교하여 left, right 값을 갱신
+    for i in 1..<a.count {
         left[i] = min(left[i - 1], a[i])
+        right[a.count - i - 1] = min(a[a.count - i - 1], right[a.count - i])
     }
 
-    // 현재의 index 의 값과 이전 의 최솟값과 비교하여 right 값을 갱신
-    for i in stride(from: a.count - 2, through: 0, by: -1) {
-        right[i] = min(a[i], right[i + 1])
-    }
 
     // 만약 왼쪽과 오른쪽을 비교했을 때 내 자신이 최대값이면 살릴 수 없고 그렇지 않으면 살릴 수 있음
     for i in 1..<a.count - 1 {
