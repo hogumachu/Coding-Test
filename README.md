@@ -340,6 +340,7 @@
 |그래프|[순위](https://programmers.co.kr/learn/courses/30/lessons/49191)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%88%9C%EC%9C%84.swift)|
 |완전탐색|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.swift)|
 |완전탐색|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.swift)|
+|이분탐색|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.swift)|
 |깊이/너비 우선 탐색(DFS/BFS)|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.swift)|
 |깊이/너비 우선 탐색(DFS/BFS)|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.swift)|
 |깊이/너비 우선 탐색(DFS/BFS)|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.swift)|
