@@ -33,6 +33,7 @@
 |1182|[부분수열의 합](https://www.acmicpc.net/problem/1182)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1182%EB%B2%88.swift)|
 |1193|[분수찾기](https://www.acmicpc.net/problem/1193)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1193%EB%B2%88.swift)|
 |1197|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1197%EB%B2%88.swift)|
+|1202|[보석 도둑](https://www.acmicpc.net/problem/1202)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1202%EB%B2%88.swift)|
 |1238|[파티](https://www.acmicpc.net/problem/1238)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1238%EB%B2%88.swift)|
 |1316|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1316%EB%B2%88.swift)|
 |1389|[케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1389%EB%B2%88.swift)|
