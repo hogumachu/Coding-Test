@@ -100,6 +100,7 @@
 |2312|[수 복원하기](https://www.acmicpc.net/problem/2312)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2312%EB%B2%88.swift)|
 |2342|[Dance Dance Revolution](https://www.acmicpc.net/problem/2342)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2342%EB%B2%88.swift)|
 |2352|[반도체 설계](https://www.acmicpc.net/problem/2352)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2352%EB%B2%88.swift)|
+|2357|[최솟값과 최댓값](https://www.acmicpc.net/problem/2357)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2357%EB%B2%88.swift)|
 |2447|[별찍기 - 10](https://www.acmicpc.net/problem/2447)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2447%EB%B2%88.swift)|
 |2458|[키 순서](https://www.acmicpc.net/problem/2458)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2458%EB%B2%88.swift)|
 |2467|[용액](https://www.acmicpc.net/problem/2467)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2467%EB%B2%88.swift)|
