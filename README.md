@@ -220,6 +220,7 @@
 |14500|[테트로미노](https://www.acmicpc.net/problem/14500)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14500%EB%B2%88.swift)|
 |14502|[연구소](https://www.acmicpc.net/problem/14502)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14502%EB%B2%88.swift)|
 |14503|[로봇 청소기](https://www.acmicpc.net/problem/14503)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14503%EB%B2%88.swift)|
+|14725|[개미굴](https://www.acmicpc.net/problem/14725)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14725%EB%B2%88.swift)|
 |14888|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14888%EB%B2%88.swift)|
 |14889|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14889%EB%B2%88.swift)|
 |14938|[서강그라운드](https://www.acmicpc.net/problem/14938)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/14938%EB%B2%88.swift)|
