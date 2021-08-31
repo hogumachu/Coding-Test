@@ -138,6 +138,7 @@
 |4949|[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4949%EB%B2%88.swift)|
 |5430|[AC](https://www.acmicpc.net/problem/5430)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/5430%EB%B2%88.swift)|
 |5525|[IOIO](https://www.acmicpc.net/problem/5525)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/5525%EB%B2%88.swift)|
+|5615|[아파트 임대](https://www.acmicpc.net/problem/5615)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/5615%EB%B2%88.swift)|
 |6064|[카잉 달력](https://www.acmicpc.net/problem/6064)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/6064%EB%B2%88.swift)|
 |6588|[골드바흐의 추측](https://www.acmicpc.net/problem/6588)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/6588%EB%B2%88.swift)|
 |6603|[로또](https://www.acmicpc.net/problem/6603)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/6603%EB%B2%88.swift)|
