@@ -1,96 +1,96 @@
 // 출처 : 프로그래머스 2021 KAKAO BLIND RECRUITMENT 광고 삽입
 // https://programmers.co.kr/learn/courses/30/lessons/72414
 // 풀이 : hogumachu
-// String 으로 표시된 time 을 Int 로 변경하여 품
-// 0부터 play_time 을 Int 로 바꾼 pt 까지의 배열을 생성하여 해당 시간에 몇명이 보고 있는 지 값을 넣었음
 
 import Foundation
 
 func solution(_ play_time:String, _ adv_time:String, _ logs:[String]) -> String {
-    let pt = timeToSecond(play_time)
-    let at = timeToSecond(adv_time)
-    var arr = Array(repeating: 0, count: pt + 1)
-    var order = arr
+    // play_time 을 Int 형으로 변경
+    let playtimeLength = stringToTime(play_time)
 
-    // log 에서 시작 시간과 끝 시간을 얻어 order[start] 와 order[end] 에 각각 값을 설정해줌
-    // order[start] 는 이 때부터 1명이 추가적으로 보기 시작하여 + 1
-    // order[end] 는 이 때부터 1명이 보지 않아서 -1 하였음
+    // log 의 시작과 끝의 수를 count 한 것을 저장할 배열
+    var countedLogs = Array(repeating: 0, count: playtimeLength + 1)
+
+    // 현재 몇 명이 시청중인지에 대해 저장할 배열 (countedLogs 와 같은 사이즈라 그냥 같다고 할당)
+    var watchingCount = countedLogs
+
+    // logs 에 대한 반복문
     for log in logs {
-        let splitLog = log.split(separator: "-")
-        let start = timeToSecond(String(splitLog[0]))
-        let end = timeToSecond(String(splitLog[1]))
-        order[start] += 1
-        order[end] -= 1
+        // 시작 시간과 끝 시간을 얻음
+        let arrLog = log.split { $0 == "-"}.map { String($0) }
+        let start = stringToTime(arrLog[0])
+        let end = stringToTime(arrLog[1])
+
+        // countedLogs 에 시작 시간일 때는 +1 을, 끝 시간일 때는 -1을 하여 이 시간에 새로운 인원이 추가되고 사라지는 지 알 수 있음
+        countedLogs[start] += 1
+        countedLogs[end] -= 1
     }
 
+    // 광고 시간에 대한 Int 형
+    let advLength = stringToTime(adv_time)
+
+    // 현재 몇 명인지에 대해 count 하기 위한 값
     var counting = 0
 
-    // 만약 order 값이 0 이 아닐 때는 현재 시청 중인 인원의 변화가 있다는 이야기
-    // 따라서 현재 보는 인원 (counting) 에 order 만큼 값을 설정해줌
-    // 그리고 현재 보는 인원은 계속하여 arr 에 값을 넣어줌
-    for i in 0...pt {
-        if order[i] != 0 {
-            counting += order[i]
-        }
-        arr[i] = counting
+    // wathingCount 에 대해 모든 값을 설정함
+    for i in 0...playtimeLength {
+        counting += countedLogs[i]
+        watchingCount[i] = counting
     }
 
-    // 광고 시간 (at) 동안 보고 있는 인원에 대한 sum
-    var sum = arr[0..<at].reduce(0, +)
+    // 00:00:00 부터 시작해서 광고 시간까지 동안 보고 있는 인원에 대한 값
+    var now = watchingCount[0..<advLength].reduce(0, +)
 
-    // 최대 광고를 몇명 보는 지에 대한 maxi
-    var maxi = sum
+    // 최대값과 최대값에 대한 위치
+    var maxTime = now
+    var maxLocation = 0
 
-    // 최대 광고를 몇명 볼 때의 광고 시작 시간
-    var location = 0
+    // 현재 인원이 최대 인원보다 크면 변경함
+    for i in 0...playtimeLength - advLength {
+        now -= watchingCount[i]
+        now += watchingCount[i + advLength]
 
-
-    // 광고 시작 시간을 계속 1초씩 추가하여 이전 최대 시청자보다 현재 시청자가 많을 때 최대 값과 이에 따른 시작 시간 (location) 을 변경
-    if pt - at > 1 {
-        for i in 1...pt - at {
-            sum -= arr[i - 1]
-            sum += arr[i + at - 1]
-            if maxi < sum {
-                maxi = sum
-                location = i
-            }
+        if now > maxTime {
+            maxTime = now
+            maxLocation = i + 1
         }
     }
 
-    return secondToTime(location)
+    return timeToString(maxLocation)
 }
 
-// String 을 Int 로 변경
-func timeToSecond(_ str: String) -> Int {
-    let arr = str.split(separator: ":")
-    return Int(arr[0])! * 60 * 60 + Int(arr[1])! * 60 + Int(arr[2])!
+// String 값을 Int 로 변경함
+func stringToTime(_ str: String) -> Int {
+    let arr = str.split { $0 == ":" }.map { Int(String($0))! }
+    return arr[0] * 3600 + arr[1] * 60 + arr[2]
 }
 
-// Int를 String 으로 변경
-func secondToTime(_ num: Int) -> String {
-    var arr = [0, 0, 0]
-    var div = 60 * 60
-    var newNum = num
-    var index = 0
-    var str = ""
+// Int형을 String으로 변경함
+func timeToString(_ time: Int) -> String {
+    var time = time
+    var timeStr = ""
 
-    while newNum > 0 {
-        arr[index] = newNum / div
-        newNum = newNum % div
-        div /= 60
-        index += 1
+    if time % 60 < 10 {
+        timeStr = ":0\(time % 60)"
+    } else {
+        timeStr = ":\(time % 60)"
     }
 
-    for i in 0..<3 {
-        switch arr[i] {
-        case 0...9:
-            str += "0\(arr[i])"
-        default:
-            str += "\(arr[i])"
-        }
-        if i != 2 {
-            str += ":"
-        }
+    time /= 60
+
+    if time % 60 < 10 {
+        timeStr = ":0\(time % 60)" + timeStr
+    } else {
+        timeStr = ":\(time % 60)" + timeStr
     }
-    return str
+
+    time /= 60
+
+    if time < 10 {
+        timeStr = "0\(time)" + timeStr
+    } else {
+        timeStr = "\(time)" + timeStr
+    }
+
+    return timeStr
 }
