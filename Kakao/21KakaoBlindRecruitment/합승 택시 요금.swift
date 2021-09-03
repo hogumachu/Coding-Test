@@ -2,94 +2,75 @@
 // https://programmers.co.kr/learn/courses/30/lessons/72413
 // 풀이 : hogumachu
 
-// S에서 시작하여 한 지점까지의 최단거리와 그 지점에서 A까지의 최단거리, B까지의 최단거리를 구하고 그 셋을 더 함
-// 그 더한 값에서 가장 작은 값을 result 에 할당
-
 import Foundation
 
 func solution(_ n: Int, _ s: Int, _ a: Int, _ b: Int, _ fares: [[Int]]) -> Int {
-    var path: [[(Int, Int)]] = Array(repeating: [], count: n + 1)
-    var sPath = Array(repeating: Int.max, count: n + 1)
-    var aPath = Array(repeating: Int.max, count: n + 1)
-    var bPath = Array(repeating: Int.max, count: n + 1)
-    var visited = Array(repeating: false, count: n + 1)
+    // S, A, B 에서 출발하여 다른 목적지까지의 최저 요금을 비교하는 배열
+    var compareFares: [Int] = Array(repeating: Int.max, count: n + 1)
+
+    // 그 지점을 방문해는지에 대한 배열
+    var compareVisited: [Bool] = Array(repeating: false, count: n + 1)
+
+    // 요금을 저장하기 위한 배열
+    var newFares: [[(index: Int, weight: Int)]] = Array(repeating: [], count: n + 1)
+
+    // 결과 값
     var result = Int.max
 
-    // fares 에 있는 값을 path 에 넣어줌
-    for element in fares {
-        path[element[0]].append((element[1], element[2]))
-        path[element[1]].append((element[0], element[2]))
+    // 기존에 있는 요금 정보를 newFares 에 저장함 (인덱스, 가격)
+    for fare in fares {
+        newFares[fare[0]].append((fare[1], fare[2]))
+        newFares[fare[1]].append((fare[0], fare[2]))
     }
 
-    // s에서 시작하여 최단거리를 구하는 함수
-    func sVisit(_ node: Int, _ sum: Int) {
-        // 먼저 현재 노드를 방문하였다고 visited 를 true 로 하여 표시함
-        visited[node] = true
+    // 핵심 함수
+    func visit(_ value: Int, _ fareSum: Int) {
+        // 먼저 해당 지점에 방문했다고 표시
+        compareVisited[value] = true
 
-        // 현재 노드에서 다른 노드로 가는 최소 값을 설정
-        for value in path[node] {
-            sPath[value.0] = min(sPath[value.0], value.1 + sum)
+        // 방문한 위치에서 연결된 다른 지역으로의 최소값 계산
+        for next in newFares[value] {
+            compareFares[next.index] = min(compareFares[next.index], next.weight + fareSum)
         }
 
-        // sPath 에서 해당 index (offset) 가 방문하지 않고 그 index 에 해당 하는 값이 가장 적은 것을 next 로 설정
-        if let next = sPath.enumerated().filter { !visited[$0.offset] }.min(by: {$0.element < $1.element}) {
-            // 만약 next 의 element 가 무한이지 않을 때 방문함
-            if next.element < Int.max {
-                sVisit(next.offset, next.element)
-            }
-        }
-    }
+        // 다음으로 방문할 위치는 지금까지 방문하지 않고 요금이 가장 저렴한 곳으로 방문
+        let next = compareFares.enumerated().filter { !compareVisited[$0.offset] }.min { $0.element < $1.element }?.offset
 
-    // sVist 과 동일
-    func aVisit(_ node: Int, _ sum: Int) {
-        visited[node] = true
-
-        for value in path[node] {
-            aPath[value.0] = min(aPath[value.0], value.1 + sum)
-        }
-
-        if let next = aPath.enumerated().filter { !visited[$0.offset] }.min(by: {$0.element < $1.element}) {
-            if next.element < Int.max {
-                aVisit(next.offset, next.element)
-            }
+        // 만약 그런 위치가 존재하고 그 위치의 요금이 Int.max (도달할 수 없는 위치) 가 아니라면 방문
+        if next != nil && compareFares[next!] != Int.max {
+            visit(next!, compareFares[next!])
         }
 
     }
 
-    // sVist 과 동일
-    func bVisit(_ node: Int, _ sum: Int) {
-        visited[node] = true
+    // s 에서 시작하여 다른 지점까지의 최단거리 (최소 요금) 을 계산
+    compareFares[s] = 0
+    visit(s, 0)
 
-        for value in path[node] {
-            bPath[value.0] = min(bPath[value.0], value.1 + sum)
-        }
+    // 그 값을 sFares 에 저장
+    let sFares = compareFares
 
-        if let next = bPath.enumerated().filter { !visited[$0.offset] }.min(by: {$0.element < $1.element}) {
-            if next.element < Int.max {
-                bVisit(next.offset, next.element)
-            }
-        }
+    compareFares = Array(repeating: Int.max, count: n + 1)
+    compareVisited = Array(repeating: false, count: n + 1)
 
-    }
+    // a 와 b 도 마찬가지로 aFares, bFares 에 저장
+    compareFares[a] = 0
+    visit(a, 0)
+    let aFares = compareFares
 
-    // sPath 에서 시작점을 0 으로 설정하고 sVisit 을 함
-    sPath[s] = 0
-    sVisit(s, 0)
-    // visited 를 sPath 구하는 데 사용 했으므로 다시 초기화
-    visited = Array(repeating: false, count: n + 1)
+    compareFares = Array(repeating: Int.max, count: n + 1)
+    compareVisited = Array(repeating: false, count: n + 1)
 
-    // 위와 동일
-    aPath[a] = 0
-    aVisit(a, 0)
-    visited = Array(repeating: false, count: n + 1)
+    compareFares[b] = 0
+    visit(b, 0)
 
-    bPath[b] = 0
-    bVisit(b, 0)
+    let bFares = compareFares
 
-    // result 를 sPath에서 시작하여 i 로 도착한 거리 + i 에서 출발하여 a로 도착한 거리 + i 에서 출발하여 b로 도착한 거리 중 최소값을 할당
+    // 지점 1에서 n 까지 반복
     for i in 1...n {
-        if sPath[i] != Int.max && aPath[i] != Int.max && bPath[i] != Int.max {
-            result = min(sPath[i] + aPath[i] + bPath[i], result)
+        // 만약 그 지점 모두 도달할 수 없는 위치가 아니라면 result 와 최솟값 비교
+        if sFares[i] != Int.max && aFares[i] != Int.max && bFares[i] != Int.max {
+            result = min(result, sFares[i] + aFares[i] + bFares[i])
         }
     }
 
