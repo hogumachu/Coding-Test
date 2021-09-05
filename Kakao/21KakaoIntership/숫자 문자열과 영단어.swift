@@ -1,60 +1,72 @@
 // 출처 : 프로그래머스 2021 카카오 채용연계형 인턴십 숫자 문자열과 영단어
 // https://programmers.co.kr/learn/courses/30/lessons/81301
 // 풀이 : hogumachu
-// 영단어로 된 숫자는 Character 2개를 조합해야 유니크해짐.
-// switch 문으로 case를 나눠서 조건에 맞으면 result 에 숫자를 추가하고 해당 영단어 만큼 index 크기를 늘려줬음.
-// default 에는 모든 케이스를 벗어난 경우는 숫자이므로 숫자를 더하고 index + 1
-
 
 import Foundation
 
-func solution(_ value:String) -> Int {
-    let s = value.map { String ($0) }
+func solution(_ s: String) -> Int {
+    // 값을 접근하기 쉽게 배열로 바꿈
+    let arr = s.map { String($0) }
+
+    // 결과 저장
     var result = ""
+
+    // 배열 index
     var index = 0
 
-    while index < s.count - 1 {
-        switch s[index] + s[index + 1] {
-        case "ze":
-            result += "\(0)"
+    // 배열 크기만큼 반복
+    while index < arr.count {
+        switch arr[index] {
+        // 현재 값이 "z" 이면 0
+        case "z":
+            // zero 이므로 index 를 + 4함
+            result += "0"
             index += 4
-        case "on":
-            result += "\(1)"
+        // 현재 값이 "o" 이면 1
+        case "o":
+            result += "1"
             index += 3
-        case "tw":
-            result += "\(2)"
-            index += 3
-        case "th":
-            result += "\(3)"
+        // 현재 값이 "t" 이면 two 와 three 가 될 수 있으므로 다음 글자까지 확인해야 함
+        case "t":
+            if arr[index + 1] == "w" {
+                result += "2"
+                index += 3
+            } else {
+                result += "3"
+                index += 5
+            }
+        // 현재 값이 "f" 이면 four, five
+        case "f":
+            if arr[index + 1] == "o" {
+                result += "4"
+                index += 4
+            } else {
+                result += "5"
+                index += 4
+            }
+        // 현재 값이 "s" 이면 six, seven
+        case "s":
+            if arr[index + 1] == "i" {
+                result += "6"
+                index += 3
+            } else {
+                result += "7"
+                index += 5
+            }
+        // 현재 값이 "e" 이면 eight
+        case "e":
+            result += "8"
             index += 5
-        case "fo":
-            result += "\(4)"
+        // 현재 값이 "n" 이면 nine
+        case "n":
+            result += "9"
             index += 4
-        case "fi":
-            result += "\(5)"
-            index += 4
-        case "si":
-            result += "\(6)"
-            index += 3
-        case "se":
-            result += "\(7)"
-            index += 5
-        case "ei":
-            result += "\(8)"
-            index += 5
-        case "ni":
-            result += "\(9)"
-            index += 4
+        // 나머지는 숫자이므로 그대로 추가
         default:
-            result += s[index]
+            result += "\(arr[index])"
             index += 1
         }
     }
 
-    if let number = Int(s[s.count - 1]) {
-        result += "\(number)"
-    }
-
     return Int(result)!
-
 }
