@@ -104,12 +104,13 @@ class Node {
         }
 
         // 만약 더이상 이동 못하면 value 리턴
-        if left == nil {
+        guard let left = left else {
             return value
-        // 그렇지 않으면 left 로 이동하여 up 함수를 count - 1 을 넣어 호출
-        } else {
-            return left!.up(count - 1)
         }
+
+        // 이동이 가능하면 count - 1 만큼 이동
+        return left.up(count - 1)
+
     }
 
     // down 함수, up 과 동일
@@ -117,11 +118,12 @@ class Node {
         if count == 0 {
             return value
         }
-        if right == nil {
+        guard let right = right else {
             return value
-        } else {
-            return right!.down(count - 1)
         }
+
+        return right.down(count - 1)
+
     }
 
     // 제거 함수
@@ -133,7 +135,7 @@ class Node {
         if left != nil && right != nil {
             // 왼쪽 노드의 오른쪽을 현재 노드의 오른쪽으로
             left!.right = right
-            / 오른쪽 노드의 왼쪽을 현재 노드의 왼쪽으로
+            // 오른쪽 노드의 왼쪽을 현재 노드의 왼쪽으로
             right!.left = left
             return right!.value
 
