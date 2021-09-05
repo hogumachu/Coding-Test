@@ -1,114 +1,173 @@
 // 출처 : 프로그래머스 2021 카카오 채용연계형 인턴십 표 편집
 // https://programmers.co.kr/learn/courses/30/lessons/81303
 // 풀이 : hogumachu
-// linked list 방식을 배열로 풀었는데 시간 초과가 났음
-// 마지막 k 의 값으로 왼쪽과 오른쪽으로 방문하여서 결과 값을 "X" 가 아닌 "O" 로 변경했는데 그게 시간 초과 났었음
 
 import Foundation
 
 func solution(_ n: Int, _ k: Int, _ cmd: [String]) -> String {
-    var k = k
-    // left 노드
-    var left = Array(repeating: 0, count: n)
-    // right 노드
-    var right = Array(repeating: 1, count: n)
-    // 제거된 값
-    var removed: [[Int]] = []
-    // 결과 저장용
-    var result = Array(repeating: true, count: n)
+    // Node 를 담을 배열 생성
+    var nodes: [Node] = []
 
-    // left 와 right 의 값을 초기화함
-    for i in 1...n - 1 {
-        left[i] = i - 1
-        right[i] = i + 1
+    // 제거된 Node 의 index (value) 를 담을 배열
+    var removed: [Int] = []
+
+    // k 값이 바뀌니 variable 로 변경
+    var k = k
+
+    // 초기 값을 넣어줌
+    nodes.append(Node.init(value: 0))
+
+    // 반복하여 node 를 배열에 넣어줌
+    for i in 1..<n {
+        let node = Node.init(value: i)
+        // 왼쪽 노드의 오른쪽을 현재 노드로
+        nodes[i - 1].right = node
+
+        // 현재 노드의 왼쪽을 왼쪽 노드로
+        node.left = nodes[i - 1]
+
+        // nodes 배열에 넣어줌
+        nodes.append(node)
     }
 
-    right[n - 1] = n - 1
-
+    // 명령에 대한 반복문
     for cmd in cmd {
         switch cmd {
+        // C 는 제거
         case "C":
-            // 먼저 값을 제거하기 전에 왼쪽 값 (l) 과 오른쪽 값 (r) 을 얻음
-            let l = left[k]
-            let r = right[k]
-            // 제거함
-            result[k] = false
-            removed.append([k, l, r])
+            // 먼저 배열에 제거된 index 값을 넣어줌
+            removed.append(k)
 
-            // 왼쪽값과 오른쪽값 둘 다 k 와 같지 않다는 것은 중간에 낀 값이라는 것 (왼쪽, 오른쪽 노드 존재)
-            if l != k && r != k {
-                // 따라서 왼쪽 노드의 오른쪽 값 변경, 오른쪽 노드의 왼쪽 값 변경
-                right[l] = right[k]
-                left[r] = left[k]
-                // 그리고 k 는 오른쪽값으로 설정
-                k = r
-
-                // l 이 k 와 같다는 것은 현재 값이 가장 왼쪽 끝에 있다는 뜻
-            } else if l == k && r != k {
-                // 따라서 우측 노드의 왼쪽 값만 변경해줌
-                // 변경해줄 때 우측 노드의 왼쪽 값은 자기 자신을 선택하도록 함
-                left[r] = r
-                k = r
-
-                // 위와 동일함
-            } else if l != k && r == k {
-                right[l] = l
-                k = l
-            }
+            // k 번째 노드의 remove 함수를 호출 (Int 값 리턴함) 하여 k 에 할당함
+            k = nodes[k].remove()
+        // Z 는 복구
         case "Z":
-            if removed.isEmpty {
-                break
-            }
-
-            // removed 에 가장 최근에 저장된 값을 가져옴
-            let last = removed.removeLast()
-            let x = last[0]
-            let l = last[1]
-            let r = last[2]
-
-            // 방문 가능
-            result[x] = true
-
-            // 케이스 별로 값을 업데이트함
-            // 가운데 있는 경우
-            if l != x && r != x {
-                // x 의 왼쪽 노드의 오른쪽 값을 x 로 변경
-                right[l] = x
-                // x 의 오른쪽 노드의 왼쪽 값을 x 로 변경
-                left[r] = x
-
-            // 아래는 생략함
-            } else if l == x && r != x {
-                left[r] = x
-            } else if l != x && r == x {
-                right[l] = x
+            // 만약 제거된 값이 있다면
+            if !removed.isEmpty {
+                let last = removed.removeLast()
+                // 해당 index 를 restore 함
+                nodes[last].restore()
             }
         default:
             let order = cmd.split { $0 == " " }
             switch order[0] {
-            // U 일때는 왼쪽으로 방문
+            // U 는 위로 (여기선 left 로 이동)
             case "U":
-                for _ in 1...Int(order[1])! {
-                    if k == left[k] {
-                        break
-                    }
-                    k = left[k]
-                }
-            // D 일때는 오른쪽으로 방문
+                // k번째 있는 node 에서 order[1] 만큼 up 하여 (Int 값 리턴함) k 값에 할당
+                k = nodes[k].up(Int(order[1])!)
+            // D 는 아래 (여기선 right 로 이동)
             case "D":
-                for _ in 1...Int(order[1])! {
-                    if k == right[k] {
-                        break
-                    }
-                    k = right[k]
-                }
+                // 위와 동일
+                k = nodes[k].down(Int(order[1])!)
             default:
                 break
             }
-
         }
     }
 
-    // result 가 true 일 때는 "O" 를 false 일 때는 "X" 를 하여 String으로 바꿔줌
-    return String(result.map { $0 ? "O" : "X" })
+    // 결과 저장 값
+    var result = ""
+
+    // 노드만큼 반복
+    for node in nodes {
+        // 결과 값에 node 에 저장한 결과를 추가함
+        result += node.result
+    }
+
+    return result
+}
+
+// Node Class
+class Node {
+    // value 값 저장 (index 값과 동일)
+    let value: Int
+
+    // left (Up) Node
+    // 가장 왼쪽이면 left 가 없을 수 있으니 Optional 로 함
+    var left: Node?
+
+    // 가장 오른쪽이면 right 가 없을 수 있으니 Optional 로 함
+    var right: Node?
+
+    // 간단하게 결과 값을 얻기 위해 저장함
+    var result = "O"
+
+    init(value: Int) {
+        self.value = value
+    }
+
+    // up 함수
+    func up(_ count: Int) -> Int {
+        // 만약 이동을 다했으면 value 리턴
+        if count == 0 {
+            return value
+        }
+
+        // 만약 더이상 이동 못하면 value 리턴
+        if left == nil {
+            return value
+        // 그렇지 않으면 left 로 이동하여 up 함수를 count - 1 을 넣어 호출
+        } else {
+            return left!.up(count - 1)
+        }
+    }
+
+    // down 함수, up 과 동일
+    func down(_ count: Int) -> Int {
+        if count == 0 {
+            return value
+        }
+        if right == nil {
+            return value
+        } else {
+            return right!.down(count - 1)
+        }
+    }
+
+    // 제거 함수
+    func remove() -> Int {
+        // 먼저 result 값을 "X" 로 변경
+        result = "X"
+
+        // 왼쪽 오른쪽 노드가 전부 있다면
+        if left != nil && right != nil {
+            // 왼쪽 노드의 오른쪽을 현재 노드의 오른쪽으로
+            left!.right = right
+            / 오른쪽 노드의 왼쪽을 현재 노드의 왼쪽으로
+            right!.left = left
+            return right!.value
+
+            // 만약 right 만 있다면
+        } else if left == nil {
+            // right 의 왼쪽을 nil 로 함
+            right!.left = nil
+            return right!.value
+
+            // left 만 있을 때도 마찬가지임
+        } else {
+            left!.right = nil
+            return left!.value
+        }
+    }
+
+    // 복원 함수
+    func restore() {
+        // 먼저 result 를 "O" 로 변경
+        result = "O"
+
+        // 왼쪽 오른쪽 모두 있다면
+        if left != nil && right != nil {
+            // 둘 다 현재 노드로 설정
+            left!.right = self
+            right!.left = self
+
+            // 오른쪽만 있다면 오른쪽만 설정
+        } else if left == nil {
+            right!.left = self
+
+            // 왼쪽만 있다면 왼쪽만 설정
+        } else {
+            left!.right = self
+        }
+    }
 }
