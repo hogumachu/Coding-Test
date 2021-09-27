@@ -327,6 +327,7 @@
 |위클리 챌린지|[모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.swift)|
 |위클리 챌린지|[복서 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/85002)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EB%B3%B5%EC%84%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.swift)|
 |위클리 챌린지|[입실 퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%9E%85%EC%8B%A4%20%ED%87%B4%EC%8B%A4.swift)|
+|위클리 챌린지|[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.swift)|
 |연습문제|[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)|
 |연습문제|[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.swift)|
 |연습문제|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%89.swift)|
