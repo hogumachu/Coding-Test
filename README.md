@@ -2,7 +2,7 @@
  
 ## 백준
 
-|Round|Title|Code|
+|Round|Title|Swift|
 |:-------:|:-----:|:---:|
 |1002|[터렛](https://www.acmicpc.net/problem/1002)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1002%EB%B2%88.swift)|
 |1003|[피보나치 함수](https://www.acmicpc.net/problem/1003)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1003%EB%B2%88.swift)|
@@ -257,7 +257,7 @@
 
  
 ## 프로그래머스
-|Round|Title|Code|
+|Round|Title|Swift|
 |:-------:|:-----:|:---:|
 |2018 KAKAO BLIND RECRUITMENT|[[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/Kakao/18KakaoBlindRecruitment/SecretMap.swift)|
 |2018 KAKAO BLIND RECRUITMENT|[[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/Kakao/18KakaoBlindRecruitment/%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84)|
@@ -359,7 +359,7 @@
 
 
 ## HackerRank, Codility, LeetCode
-|Round|Title|Code|
+|Round|Title|Swift|
 |:-------:|:-----:|:---:|
 |HackerRank|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Left%20Rotation.swift)|
 |LeetCode|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Add%20Two%20Numbers.swift)|
