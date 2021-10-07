@@ -3,6 +3,7 @@
 ## 풀이 있음
 |Round|Title|Link|
 |:-------:|:-----:|:---:|
+|1261|[알고스팟](https://www.acmicpc.net/problem/1261)|[Link](    )|
 |14226|[이모티콘](https://www.acmicpc.net/problem/14226)|[Link](https://hogumachu.tistory.com/11)|
 |17406|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|[Link](https://hogumachu.tistory.com/10)|
 
