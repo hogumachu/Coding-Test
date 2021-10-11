@@ -6,10 +6,10 @@
 |1261|[알고스팟](https://www.acmicpc.net/problem/1261)|[Link](https://hogumachu.tistory.com/12)|
 |3055|[탈출](https://www.acmicpc.net/problem/3055)|[Link](https://hogumachu.tistory.com/13)|
 |3190|[뱀](https://www.acmicpc.net/problem/3190)|[Link](https://hogumachu.tistory.com/15)|
+|13460|[구슬 탈출 2](https://www.acmicpc.net/problem/13460)|[Link](https://hogumachu.tistory.com/17)|
 |14226|[이모티콘](https://www.acmicpc.net/problem/14226)|[Link](https://hogumachu.tistory.com/11)|
 |14499|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|[Link](https://hogumachu.tistory.com/16)|
 |17406|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|[Link](https://hogumachu.tistory.com/10)|
-
 
 ## 백준
 
