@@ -9,6 +9,7 @@
 |13460|[구슬 탈출 2](https://www.acmicpc.net/problem/13460)|[Link](https://hogumachu.tistory.com/17)|
 |14226|[이모티콘](https://www.acmicpc.net/problem/14226)|[Link](https://hogumachu.tistory.com/11)|
 |14499|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|[Link](https://hogumachu.tistory.com/16)|
+|14891|[톱니바퀴](https://www.acmicpc.net/problem/14891)|[Link](https://hogumachu.tistory.com/18)|
 |17406|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|[Link](https://hogumachu.tistory.com/10)|
 
 ## 백준
