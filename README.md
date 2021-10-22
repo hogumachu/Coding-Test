@@ -11,6 +11,10 @@
 |14499|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|[Link](https://hogumachu.tistory.com/16)|
 |14891|[톱니바퀴](https://www.acmicpc.net/problem/14891)|[Link](https://hogumachu.tistory.com/18)|
 |17406|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|[Link](https://hogumachu.tistory.com/10)|
+|위클리 챌린지|[교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377)|[Link](https://hogumachu.tistory.com/19)|
+
+
+
 
 ## 백준
 
