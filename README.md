@@ -10,6 +10,7 @@
 |14226|[이모티콘](https://www.acmicpc.net/problem/14226)|[Link](https://hogumachu.tistory.com/11)|
 |14499|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|[Link](https://hogumachu.tistory.com/16)|
 |14891|[톱니바퀴](https://www.acmicpc.net/problem/14891)|[Link](https://hogumachu.tistory.com/18)|
+|15988|[1,2,3 더하기 3](https://www.acmicpc.net/problem/15988)|[Link](https://hogumachu.tistory.com/22)|
 |17406|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|[Link](https://hogumachu.tistory.com/10)|
 |위클리 챌린지|[교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377)|[Link](https://hogumachu.tistory.com/19)|
 |위클리 챌린지|[피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)|[Link](https://hogumachu.tistory.com/20)|
