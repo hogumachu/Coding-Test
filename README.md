@@ -253,6 +253,7 @@
 |15666|[N과 M (12)](https://www.acmicpc.net/problem/15666)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15666%EB%B2%88.swift)|
 |15686|[치킨 배달](https://www.acmicpc.net/problem/15686)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15686%EB%B2%88.swift)|
 |15829|[Hashing](https://www.acmicpc.net/problem/15829)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15829%EB%B2%88.swift)|
+|15990|[1,2,3 더하기 5](https://www.acmicpc.net/problem/15990)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15990%EB%B2%88.swift)|
 |16194|[카드 구매하기 2](https://www.acmicpc.net/problem/16194)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/16194%EB%B2%88.swift)|
 |16236|[아기 상어](https://www.acmicpc.net/problem/16236)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/16236%EB%B2%88.swift)|
 |16928|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/16928%EB%B2%88.swift)|
