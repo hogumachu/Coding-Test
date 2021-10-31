@@ -383,6 +383,7 @@
 |:-------:|:-----:|:---:|
 |HackerRank|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Left%20Rotation.swift)|
 |HackerRank|[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Sparse%20Arrays.swift)|
+|HackerRank|[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Array%20Manipulation.swift)|
 |LeetCode|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Add%20Two%20Numbers.swift)|
 |LeetCode|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Longest%20Substring%20Without%20Repeating%20Characters.swift)|
 |LeetCode|[Plus One](https://leetcode.com/problems/plus-one/submissions/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Plus%20One.swift)|
