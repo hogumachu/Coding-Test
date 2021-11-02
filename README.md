@@ -387,6 +387,7 @@
 |HackerRank|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Grading%20Students.swift)|
 |HackerRank|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Apple%20and%20Orange.swift)|
 |HackerRank|[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Apple%20and%20Orange.swift)|
+|HackerRank|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Extra%20Long%20Factorials.swift)|
 |LeetCode|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Number%20Line%20Jumps.swift)|
 |LeetCode|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Longest%20Substring%20Without%20Repeating%20Characters.swift)|
 |LeetCode|[Plus One](https://leetcode.com/problems/plus-one/submissions/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Plus%20One.swift)|
