@@ -124,6 +124,7 @@
 |2467|[용액](https://www.acmicpc.net/problem/2467)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2467%EB%B2%88.swift)|
 |2468|[안전 영역](https://www.acmicpc.net/problem/2468)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2468%EB%B2%88.swift)|
 |2485|[가로수](https://www.acmicpc.net/problem/2485)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2485%EB%B2%88.swift)|
+|2529|[부등호](https://www.acmicpc.net/problem/2529)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2529%EB%B2%88.swift)|
 |2565|[전깃줄](https://www.acmicpc.net/problem/2565)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2565%EB%B2%88.swift)|
 |2579|[계단 오르기](https://www.acmicpc.net/problem/2579)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2579%EB%B2%88.swift)|
 |2581|[소수](https://www.acmicpc.net/problem/2581)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/2581%EB%B2%88.swift)|
