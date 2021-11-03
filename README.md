@@ -231,6 +231,7 @@
 |13023|[ABCDE](https://www.acmicpc.net/problem/13023)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13023%EB%B2%88.swift)|
 |13172|[Σ](https://www.acmicpc.net/problem/13172)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13172%EB%B2%88.swift)|
 |13305|[주유소](https://www.acmicpc.net/problem/13305)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13305%EB%B2%88.swift)|
+|13398|[연속합 2](https://www.acmicpc.net/problem/13398)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13398%EB%B2%88.swift)|
 |13458|[시험 감독](https://www.acmicpc.net/problem/13458)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13458%EB%B2%88.swift)|
 |13549|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13549%EB%B2%88.swift)|
 |13913|[숨바꼭질 4](https://www.acmicpc.net/problem/13913)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/13913%EB%B2%88.swift)|
