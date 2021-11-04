@@ -52,6 +52,7 @@
 |1202|[보석 도둑](https://www.acmicpc.net/problem/1202)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1202%EB%B2%88.swift)|
 |1238|[파티](https://www.acmicpc.net/problem/1238)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1238%EB%B2%88.swift)|
 |1316|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1316%EB%B2%88.swift)|
+|1339|[단어 수학](https://www.acmicpc.net/problem/1339)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1339%EB%B2%88.swift)|
 |1389|[케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1389%EB%B2%88.swift)|
 |1406|[에디터 (시간 초과)](https://www.acmicpc.net/problem/1406)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1406%EB%B2%88.swift)|
 |1411|[비슷한 단어](https://www.acmicpc.net/problem/1411)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1411%EB%B2%88.swift)|
