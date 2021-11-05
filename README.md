@@ -151,6 +151,7 @@
 |3085|[사탕 게임](https://www.acmicpc.net/problem/3085)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3085%EB%B2%88.swift)|
 |3495|[아스키 도형](https://www.acmicpc.net/problem/3495)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3495%EB%B2%88.swift)|
 |3985|[롤 케이크](https://www.acmicpc.net/problem/3985)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3985%EB%B2%88.swift)|
+|3986|[좋은 단어](https://www.acmicpc.net/problem/3986)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/3986%EB%B2%88.swift)|
 |4344|[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4344%EB%B2%88.swift)|
 |4386|[별자리 만들기](https://www.acmicpc.net/problem/4386)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4386%EB%B2%88.swift)|
 |4673|[셀프 넘버](https://www.acmicpc.net/problem/4673)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/4673%EB%B2%88.swift)|
