@@ -5,24 +5,31 @@
 import Foundation
 
 func solution(_ n: Int, _ stations: [Int], _ w: Int) -> Int {
-    var result = 0
-    var start = 1
-    var index = 0
+    var answer = 0
+    var stationIndex = 0
+    var now = 0
 
-    while start <= n && index < stations.count {
-        if start >= stations[index] - w && start <= stations[index] + w {
-            start = stations[index] + w + 1
-            index += 1
-        } else if start < stations[index] - w {
-            start += 2 * w + 1
-            result += 1
+    if stations[0] - w <= 1 {
+        now = stations[0] + w + 1
+        stationIndex += 1
+    } else {
+        now = w * 2 + 2
+        answer += 1
+    }
+    
+    for i in stationIndex..<stations.count {
+        while now < stations[i] - w {
+            now += w * 2 + 1
+            answer += 1
         }
+        now = stations[i] + w + 1
+
     }
 
-    while start <= n {
-        start += 2 * w + 1
-        result += 1
+    while now <= n {
+        now += w * 2 + 1
+        answer += 1
     }
 
-    return result
+    return answer
 }
