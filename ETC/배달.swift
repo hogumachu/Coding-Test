@@ -2,43 +2,41 @@
 // https://programmers.co.kr/learn/courses/30/lessons/12978
 // 풀이 : hogumachu
 
+import Foundation
+
 func solution(_ N:Int, _ road:[[Int]], _ k:Int) -> Int {
-    var answer = 1
-    var path: [[Int]] = Array(repeating: Array(repeating: 0, count: N+1), count: N+1)
-    var queue: [(Int, Int, Int)] = []
-    for i in 0..<road.count {
-        if path[road[i][0]][road[i][1]] == 0 || path[road[i][0]][road[i][1]] > road[i][2] {
-            path[road[i][0]][road[i][1]] = road[i][2]
-        }
-        if path[road[i][1]][road[i][0]] == 0 || path[road[i][1]][road[i][0]] > road[i][2] {
-            path[road[i][1]][road[i][0]] = road[i][2]
-        }
-        queue.append((road[i][0], road[i][1], road[i][2]))
-        queue.append((road[i][1], road[i][0], road[i][2]))
+    var weight = Array(repeating: 500_001, count: N + 1)
+    var visited = Array(repeating: false, count: N + 1)
+    var location: [[(Int, Int)]] = Array(repeating: [], count: N + 1)
+
+    for road in road {
+        location[road[0]].append((road[1], road[2]))
+        location[road[1]].append((road[0], road[2]))
     }
 
-    func visit(_ x: Int, _ y: Int, _ sum: Int) -> Void {
-        for i in 1...N {
-            if x != i && y != i && x != y && (path[x][i] == 0 || path[y][i] + sum < path[x][i]) && path[y][i] != 0 {
-                path[x][i] = sum + path[y][i]
-                queue.append((x, i, path[x][i]))
-            }
-        }
+    for v in location[1] {
+        weight[v.0] = min(v.1, weight[v.0])
     }
-    var queueIndex = 0
-    while queue.count > queueIndex {
-        let select = queue[queueIndex]
-        queueIndex += 1
-        if path[select.0][select.1] == 0 || path[select.0][select.1] >= select.2 {
-            path[select.0][select.1] = select.2
-            visit(select.0, select.1, select.2)
+
+    func visit(_ now: Int, _ sum: Int) {
+        visited[now] = true
+
+        for location in location[now] {
+            weight[location.0] = min(weight[location.0], location.1 + sum)
+        }
+
+        let next = weight
+            .enumerated()
+            .filter { !visited[$0.offset] }
+            .min(by: { $0.element < $1.element })?
+            .offset
+
+        if let next = next, weight[next] != 500_001 {
+            visit(next, weight[next])
         }
     }
 
-    for i in 2...N {
-        if path[1][i] <= k && path[1][i] != 0 {
-            answer += 1
-        }
-    }
-    return answer
+    visit(1, 0)
+
+    return weight[2...].filter { $0 <= k }.count + 1
 }
