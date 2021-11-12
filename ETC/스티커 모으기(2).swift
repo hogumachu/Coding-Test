@@ -4,27 +4,23 @@
 
 import Foundation
 
-func solution(_ sticker:[Int]) -> Int {
+func solution(_ sticker: [Int]) -> Int{
     if sticker.count <= 2 {
         return sticker.max()!
     }
-    var dp: [[Int]] = Array(repeating: Array(repeating: 0, count: 2), count: sticker.count)
-    var zdp: [[Int]] = Array(repeating: Array(repeating: 0, count: 2), count: sticker.count)
-    dp[0][0] = sticker[0]
-    dp[1][0] = sticker[1]
-    dp[1][1] = sticker[0]
-    zdp[1][0] = sticker[1]
 
-    for i in 2..<sticker.count - 1 {
-        dp[i][0] = max(dp[i - 2][0], dp[i - 1][1]) + sticker[i]
-        dp[i][1] = max(dp[i - 2][0], dp[i - 1][0], dp[i - 2][1], dp[i - 1][1])
-        zdp[i][0] = max(zdp[i - 2][0], zdp[i - 1][1]) + sticker[i]
-        zdp[i][1] = max(zdp[i - 2][0], zdp[i - 1][0], zdp[i - 2][1], zdp[i - 1][1])
+    let c = sticker.count - 1
+    var sDp: [[Int]] = Array(repeating: [0, 0], count: c)
+    var dp = sDp
+    sDp[0][1] = sticker[0]
 
+    for i in 1..<sticker.count - 1 {
+        sDp[i][0] = max(sDp[i - 1][1], sDp[i - 1][0])
+        sDp[i][1] = max(sticker[i] + sDp[i - 1][0], sDp[i - 1][1])
+
+        dp[i][0] = max(dp[i - 1][1], dp[i - 1][0])
+        dp[i][1] = max(sticker[i] + dp[i - 1][0], dp[i - 1][1])
     }
 
-    zdp[sticker.count - 1][0] = zdp[sticker.count - 2][1] + sticker.last!
-    zdp[sticker.count - 1][1] = zdp[sticker.count - 2].max()!
-
-    return max(zdp[sticker.count - 1].max()!, dp[sticker.count - 2].max()!)
+    return max(sDp[c - 1][0], sDp[c - 1][1], dp[c - 1][0] + sticker.last!, dp[c - 1][1])
 }
