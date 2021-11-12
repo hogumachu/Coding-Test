@@ -5,29 +5,33 @@
 import Foundation
 
 func solution(_ skill:String, _ skill_trees:[String]) -> Int {
-    var skill_order: [Character : Int] = [:]
     var result = 0
-    var counting = 0
-    for c in skill {
-        skill_order[c] = counting
-        counting += 1
-    }
-    for skills in skill_trees {
-        var skillOrderCounting = 0
-        var breaked = false
-        for c in skills {
-            if skill_order[c] != nil {
-                if skill_order[c] != skillOrderCounting {
-                    breaked = true
-                    break
+    var order: [Character: Int] = [:]
+
+    skill
+        .map { $0 }
+        .enumerated()
+        .forEach { order[$0.element] = $0.offset }
+
+    for o in skill_trees {
+        var index = 0
+        var canAdd = true
+
+        for s in o {
+            if order[s] != nil {
+                if order[s]! == index {
+                    index += 1
                 } else {
-                    skillOrderCounting += 1
+                    canAdd = false
+                    break
                 }
             }
         }
-        if !breaked {
+
+        if canAdd {
             result += 1
         }
     }
+
     return result
 }
