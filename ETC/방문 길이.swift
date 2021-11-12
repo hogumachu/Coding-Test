@@ -2,78 +2,51 @@
 // https://programmers.co.kr/learn/courses/30/lessons/49994
 // 풀이 : hogumachu
 
-func solution(_ dirs:String) -> Int {
-    var now = (0, 0)
+import Foundation
+
+func solution(_ dirs: String) -> Int {
+    var visited: [String: Bool] = [:]
     var result = 0
-    var visit: [(Int, Int, Int, Int)] = []
-    for order in dirs {
-        if order == "U" {
-            if now.0 + 1 <= 5 {
-                if visit.contains(where: {
-                    if $0.0 == now.0 && $0.1 == now.1 && $0.2 == now.0 + 1 && $0.3 == now.1 {
-                        return true
-                    } else {
-                        return false
-                    }
-                }) {
-                } else {
-                    result += 1
-                    visit.append((now.0, now.1, now.0 + 1, now.1))
-                    visit.append((now.0 + 1, now.1, now.0, now.1))
-                }
-                now = (now.0 + 1, now.1)
-            }
-        } else if order == "D" {
-            if now.0 - 1 >= -5 {
-                if visit.contains(where: {
-                    if $0.0 == now.0 && $0.1 == now.1 && $0.2 == now.0 - 1 && $0.3 == now.1 {
-                        return true
-                    } else {
-                        return false
-                    }
-                }) {
-                } else {
-                    result += 1
-                    visit.append((now.0, now.1, now.0 - 1, now.1))
-                    visit.append((now.0 - 1, now.1, now.0, now.1))
-                }
-                now = (now.0 - 1, now.1)
-            }
+    var now: (x: Int, y: Int) = (0, 0)
 
-        } else if order == "R" {
-            if now.1 + 1 <= 5 {
-                if visit.contains(where: {
-                    if $0.0 == now.0 && $0.1 == now.1 && $0.2 == now.0 && $0.3 == now.1 + 1 {
-                        return true
-                    } else {
-                        return false
-                    }
-                }) {
-                } else {
+    for i in dirs.map { String($0) } {
+        switch i {
+        case "U":
+            if now.y + 1 <= 5 {
+                if visited["\(now.x), \(now.y) - \(now.x), \(now.y + 1)"] == nil {
+                    visited["\(now.x), \(now.y) - \(now.x), \(now.y + 1)"] = true
                     result += 1
-                    visit.append((now.0, now.1, now.0, now.1 + 1))
-                    visit.append((now.0, now.1 + 1, now.0, now.1))
                 }
-                now = (now.0, now.1 + 1)
+                now.y += 1
             }
-
-        } else if order == "L" {
-            if now.1 - 1 >= -5 {
-                if visit.contains(where: {
-                    if $0.0 == now.0 && $0.1 == now.1 && $0.2 == now.0 && $0.3 == now.1 - 1 {
-                        return true
-                    } else {
-                        return false
-                    }
-                }) {
-                } else {
+        case "D":
+            if now.y - 1 >= -5 {
+                if visited["\(now.x), \(now.y - 1) - \(now.x), \(now.y)"] == nil {
+                    visited["\(now.x), \(now.y - 1) - \(now.x), \(now.y)"] = true
                     result += 1
-                    visit.append((now.0, now.1, now.0, now.1 - 1))
-                    visit.append((now.0, now.1 - 1, now.0, now.1))
                 }
-                now = (now.0, now.1-1)
+                now.y -= 1
             }
+        case "R":
+            if now.x + 1 <= 5 {
+                if visited["\(now.x), \(now.y) - \(now.x + 1), \(now.y)"] == nil {
+                    visited["\(now.x), \(now.y) - \(now.x + 1), \(now.y)"] = true
+                    result += 1
+                }
+                now.x += 1
+            }
+        case "L":
+            if now.x - 1 >= -5 {
+                if visited["\(now.x - 1), \(now.y) - \(now.x), \(now.y)"] == nil {
+                    visited["\(now.x - 1), \(now.y) - \(now.x), \(now.y)"] = true
+                    result += 1
+                }
+                now.x -= 1
+            }
+        default:
+            break
         }
     }
+
     return result
 }
