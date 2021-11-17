@@ -396,6 +396,9 @@
 |HackerRank|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Extra%20Long%20Factorials.swift)|
 |HackerRank|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Migratory%20Birds.swift)|
 |HackerRank|[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Divisible%20Sum%20Pairs.swift)|
+|HackerRank|[Bill Divistion](https://www.hackerrank.com/challenges/bon-appetit/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Bill%20Division.swift)|
+|HackerRank|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Counting%20Valleys.swift)|
+|HackerRank|[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Sales%20by%20Match.swift)|
 |LeetCode|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Number%20Line%20Jumps.swift)|
 |LeetCode|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Longest%20Substring%20Without%20Repeating%20Characters.swift)|
 |LeetCode|[Plus One](https://leetcode.com/problems/plus-one/submissions/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Plus%20One.swift)|
