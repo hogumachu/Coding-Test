@@ -1,4 +1,4 @@
-// 출처 : 백준 MooTube (Silver)
+// 출처 : 백준 MooTube(Silver)
 // https://www.acmicpc.net/problem/15591
 // 풀이 : hogumachu
 
