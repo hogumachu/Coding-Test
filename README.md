@@ -402,6 +402,7 @@
 |HackerRank|[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Sales%20by%20Match.swift)|
 |HackerRank|[Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Forming%20a%20Magic%20Square.swift)|
 |HackerRank|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Electronics%20Shop.swift)|
+|HackerRank|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Picking%20Numbers.swift)|
 |LeetCode|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Number%20Line%20Jumps.swift)|
 |LeetCode|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Longest%20Substring%20Without%20Repeating%20Characters.swift)|
 |LeetCode|[Plus One](https://leetcode.com/problems/plus-one/submissions/)|[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/Plus%20One.swift)|
